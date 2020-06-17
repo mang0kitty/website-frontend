@@ -5,19 +5,27 @@
         <el-steps direction="vertical">
           <el-step
             :title="yearEntry.year"
-            v-for="yearEntry in data"
+            v-for="yearEntry in bookShelf"
             :key="yearEntry.year"
             icon="el-icon-close"
-            :active="1"
+            :active="2020"
           >
             <slot slot="description">
-              <img
-                :src="'http://localhost:8000' + book.photo"
-                class="book"
+              <el-popover
                 v-for="book in yearEntry.books"
-                :key="book.photo"
-                :store="book.photo"
-              />
+                :key="book.title"
+                placement="top-start"
+                :title="book.title"
+                width="200"
+                trigger="hover"
+                :content="book.description"
+              >
+                <img
+                  :src="'http://localhost:8000' + book.photo"
+                  class="book"
+                  slot="reference"
+                />
+              </el-popover>
             </slot>
           </el-step>
         </el-steps>
@@ -31,9 +39,11 @@
 <script>
 export default {
   name: "App",
-  data() {
+  data: function() {
     return {
-      data: {},
+      bookShelf: {},
+      bookDescription: "No description",
+      bookRatings: {},
     };
   },
   beforeMount() {
@@ -53,12 +63,12 @@ export default {
       // array[Book] → map[year]array[Book] → array[{ year: int, book: array[Book]}]
       // books → groupBy(year) → project({ year, books })
 
-      this.data = Object.keys(years).map((year) => ({
+      this.bookShelf = Object.keys(years).map((year) => ({
         year,
         books: years[year],
       }));
 
-      this.data.sort((a, b) => b.year - a.year);
+      this.bookShelf.sort((a, b) => b.year - a.year);
     },
   },
 };
