@@ -7,12 +7,63 @@ import "element-ui/lib/theme-chalk/index.css";
 Vue.use(ElementUI);
 Vue.config.productionTip = false;
 
-Vue.filter("striphtml", function(value) {
+export function CleanHTML(value) {
   var div = document.createElement("div");
   div.innerHTML = value;
   var text = div.textContent || div.innerText || "";
-  return text;
-});
+  return text.normalize();
+}
+
+Vue.filter("striphtml", CleanHTML);
+
+export function GetPreview(text) {
+  let count = 0;
+  let quotes = false;
+  text = text.normalize();
+
+  let controlCharacters = /[^.'"!?]*([.'"!?])/g;
+
+  let res = "";
+  let match = null;
+  while ((match = controlCharacters.exec(text))) {
+    const control = match[1];
+
+    switch (control) {
+      case ".":
+      case "!":
+      case "?":
+        if (!quotes && ++count >= 3) return res + match[0];
+        break;
+      case "'":
+      case '"':
+        quotes = !quotes;
+        break;
+      default:
+        break;
+    }
+
+    res += match[0];
+  }
+
+  return res;
+
+  // for (let i = 0; i < text.length; i++) {
+  //   if (count === 3) {
+  //     return res;
+  //   }
+  //   if (text[i] === "." && quotes != 1) {
+  //     count += 1;
+  //   }
+  //   if (text[i] === "'" || text[i] === '"') {
+  //     quotes = !quotes;
+  //   }
+  //   res += text[i];
+  // }
+
+  // return res;
+}
+
+Vue.filter("preview", GetPreview);
 
 new Vue({
   router: Router,

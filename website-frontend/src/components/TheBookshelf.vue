@@ -11,39 +11,32 @@
             :active="2020"
           >
             <slot slot="description">
-              <el-popover
+              <Book
+                class="book"
                 v-for="book in yearEntry.books"
-                :key="book.title"
-                placement="top-start"
-                :title="book.title"
-                width="200"
-                trigger="hover"
-                :content="book.description"
-              >
-                <img
-                  :src="'http://localhost:8000' + book.photo"
-                  class="book"
-                  slot="reference"
-                />
-              </el-popover>
+                v-bind:key="book"
+                :book="book"
+              />
             </slot>
           </el-step>
         </el-steps>
       </div>
     </div>
-
-    <div id="tags"></div>
   </div>
 </template>
 
 <script>
+import Book from "@/components/Book.vue";
+
 export default {
   name: "App",
+  components: {
+    Book,
+  },
   data: function() {
     return {
       bookShelf: {},
-      bookDescription: "No description",
-      bookRatings: {},
+      fullDesc: false,
     };
   },
   beforeMount() {
@@ -81,12 +74,9 @@ export default {
 }
 
 .container {
-  /* columns: 4;
-  column-gap: 10px; */
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  /* justify-content: flex-start; */
 }
 .book {
   margin: 30px;
@@ -96,11 +86,5 @@ export default {
   -webkit-column-break-inside: avoid-column;
   page-break-inside: avoid;
   break-inside: avoid-column;
-}
-img {
-  float: left;
-  height: 210px;
-  width: 150px;
-  object-fit: cover;
 }
 </style>
