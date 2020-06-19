@@ -21,7 +21,14 @@
           >
           </el-rate>
         </p>
-        <p id="description" v-if="fullDesc == false">
+        <p
+          id="description"
+          v-if="
+            fullDesc == false &&
+              book.description.length >
+                checkPreviewDescLength(book.description).length
+          "
+        >
           {{ book.description | striphtml | preview }}
           <el-link v-on:click="fullDesc = true" type="danger">
             Read more
@@ -53,8 +60,8 @@ export default {
     };
   },
   methods: {
-    changeDescState: function() {
-      this.fullDesc = !this.fullDesc;
+    checkPreviewDescLength(text) {
+      return this.$options.filters.preview(text);
     },
   },
 };
