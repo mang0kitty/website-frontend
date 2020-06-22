@@ -10,7 +10,8 @@
     >
       <div id="bookContent">
         <p id="author">
-          by {{ book.author[0] }} <br />
+          by {{ book.author[0] }}
+          <br />
           <el-rate
             v-bind:value="book.rating"
             disabled
@@ -18,8 +19,7 @@
             show-score
             text-color="#ff9900"
             score-template="{ value }"
-          >
-          </el-rate>
+          ></el-rate>
         </p>
         <p
           id="description"
@@ -30,40 +30,31 @@
           "
         >
           {{ book.description | striphtml | preview }}
-          <el-link v-on:click="fullDesc = true" type="danger">
-            Read more
-          </el-link>
+          <el-link v-on:click="fullDesc = true" type="danger">Read more</el-link>
         </p>
-        <p v-else>
-          {{ book.description | striphtml }}
-        </p>
+        <p v-else>{{ book.description | striphtml }}</p>
       </div>
-
-      <img
-        :src="'http://localhost:8000' + book.photo"
-        class="book"
-        slot="reference"
-      />
+      <img :src="'http://localhost:8000' + book.photo" class="book" slot="reference" />
     </el-popover>
   </div>
 </template>
 
 <script>
 export default {
-  name: "book",
+  name: "Book",
   props: {
-    book: Object,
+    book: Object
   },
   data: function() {
     return {
-      fullDesc: false,
+      fullDesc: false
     };
   },
   methods: {
     checkPreviewDescLength(text) {
       return this.$options.filters.preview(text);
-    },
-  },
+    }
+  }
 };
 </script>
 

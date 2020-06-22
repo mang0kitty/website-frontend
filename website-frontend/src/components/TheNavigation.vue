@@ -12,14 +12,10 @@
       mode="horizontal"
     >
       <el-menu-item index="1" @click="navigate('home')">Home</el-menu-item>
-      <el-menu-item index="2" @click="navigate('project')"
-        >Projects</el-menu-item
-      >
-      <el-menu-item index="3" @click="navigate('library')"
-        >Library</el-menu-item
-      >
-      <el-menu-item index="4" @click="navigate('home')">Resources</el-menu-item>
-      <el-menu-item index="5" @click="navigate('about')">About</el-menu-item>
+      <el-menu-item index="2" @click="navigate('home')">Projects</el-menu-item>
+      <el-menu-item index="3" @click="navigate('library')">Library</el-menu-item>
+      <!-- <el-menu-item index="4" @click="navigate('home')">Resources</el-menu-item> -->
+      <el-menu-item index="4" @click="navigate('about')">About</el-menu-item>
     </el-menu>
   </nav>
 </template>
@@ -29,8 +25,8 @@ module.exports = {
   methods: {
     navigate(name) {
       this.$router.push({ name });
-    },
-  },
+    }
+  }
 };
 </script>
 

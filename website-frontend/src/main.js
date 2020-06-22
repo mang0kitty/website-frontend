@@ -46,25 +46,9 @@ export function GetPreview(text) {
   }
 
   return res;
-
-  // for (let i = 0; i < text.length; i++) {
-  //   if (count === 3) {
-  //     return res;
-  //   }
-  //   if (text[i] === "." && quotes != 1) {
-  //     count += 1;
-  //   }
-  //   if (text[i] === "'" || text[i] === '"') {
-  //     quotes = !quotes;
-  //   }
-  //   res += text[i];
-  // }
-
-  // return res;
 }
 
 Vue.filter("preview", GetPreview);
-
 new Vue({
   router: Router,
   render: (h) => h(App),

@@ -11,12 +11,7 @@
             :active="2020"
           >
             <slot slot="description">
-              <Book
-                class="book"
-                v-for="book in yearEntry.books"
-                v-bind:key="book"
-                :book="book"
-              />
+              <Book class="book" v-for="book in yearEntry.books" v-bind:key="book" :book="book" />
             </slot>
           </el-step>
         </el-steps>
@@ -26,17 +21,17 @@
 </template>
 
 <script>
-import Book from "@/components/Book.vue";
+import Book from "@/components/TheBook.vue";
 
 export default {
   name: "App",
   components: {
-    Book,
+    Book
   },
   data: function() {
     return {
       bookShelf: {},
-      fullDesc: false,
+      fullDesc: false
     };
   },
   beforeMount() {
@@ -56,14 +51,14 @@ export default {
       // array[Book] → map[year]array[Book] → array[{ year: int, book: array[Book]}]
       // books → groupBy(year) → project({ year, books })
 
-      this.bookShelf = Object.keys(years).map((year) => ({
+      this.bookShelf = Object.keys(years).map(year => ({
         year,
-        books: years[year],
+        books: years[year]
       }));
 
       this.bookShelf.sort((a, b) => b.year - a.year);
-    },
-  },
+    }
+  }
 };
 </script>
 
