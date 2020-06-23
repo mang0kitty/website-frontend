@@ -1,23 +1,13 @@
 <template>
   <div class="experience">
-    <div id="body">
-      <div id="description" v-for="exp in experience" :key="exp"></div>
-      <!-- <el-timeline id="timeline">
-        <el-timeline-item icon="custom-icon" v-for="exp in experience" :key="exp">
-          <h4 class="timeline-header">{{exp.company | uppercase}}</h4>
-          <p>{{exp.description}}</p>
-        </el-timeline-item>
-      </el-timeline>-->
-
-      <timeline :positions="experience"></timeline>
-    </div>
+    <timeline :positions="experience"></timeline>
   </div>
 </template>
 
 
 <script>
-import TimelineVue from "./Timeline.vue";
-// import * as d3 from "d3";
+import Timeline from "./Timeline.vue";
+
 export default {
   name: "ExperienceTimeline",
   data: function() {
@@ -53,7 +43,7 @@ export default {
     }
   },
   components: {
-    timeline: TimelineVue
+    Timeline
   }
 };
 </script>
@@ -64,25 +54,7 @@ export default {
 }
 .experience {
   width: 960px;
-}
-section.experience #description {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-}
-section.experience #body {
   margin: 0 auto;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-}
-p {
-  font-family: "Poppins", sans-serif;
-  font-size: 12px;
-  letter-spacing: 1px;
-}
-section.experience #timeline {
-  width: 50%;
 }
 </style>
 

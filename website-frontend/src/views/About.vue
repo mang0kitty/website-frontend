@@ -44,7 +44,7 @@ export default {
 
 h3 {
   text-transform: uppercase;
-  font-family: "avenir-lt-w01_85-heavy1475544", sans-serif;
+  font-family: "avenir", sans-serif;
   font-weight: normal;
   font-size: 20px;
   font-stretch: normal;
