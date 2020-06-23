@@ -48,6 +48,9 @@ export default {
   padding-left: 0;
   flex: 1;
 }
+.el-timeline-item__wrapper p {
+  color: grey;
+}
 .timeline-header {
   margin-top: 0;
 }
@@ -92,8 +95,8 @@ h4 {
 }
 
 .el-timeline {
-  padding-top: 30px;
-  padding-bottom: 20px;
+  padding-top: 35px;
+  padding-bottom: 30px;
   flex-direction: column;
   display: flex;
 }

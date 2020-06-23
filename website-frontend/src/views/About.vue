@@ -1,6 +1,8 @@
 <template>
   <section class="about">
-    <section class="introduction"></section>
+    <section class="introduction">
+      <Introduction />
+    </section>
     <section class="experience">
       <div id="title">
         <h3>Experience</h3>
@@ -11,18 +13,12 @@
       <div id="title">
         <h3>Education</h3>
       </div>
-      <div id="body"></div>
+      <Education />
     </section>
 
-    <section class="volunteering">
-      <div id="title">
-        <h3>Volunteering</h3>
-      </div>
-      <div id="body"></div>
-    </section>
     <section class="contact">
       <div id="title">
-        <h3>Contact Me</h3>
+        <h3>Recent Projects</h3>
       </div>
       <div id="body"></div>
     </section>
@@ -31,11 +27,14 @@
 
 <script>
 import ExperienceTimeline from "@/components/TheExperienceTimeline.vue";
-
+import Introduction from "@/components/TheIntroduction.vue";
+import Education from "@/components/TheEducation.vue";
 export default {
   name: "About",
   components: {
-    ExperienceTimeline
+    ExperienceTimeline,
+    Introduction,
+    Education
   }
 };
 </script>
@@ -49,7 +48,7 @@ h3 {
   font-size: 20px;
   font-stretch: normal;
   color: black;
-  letter-spacing: 2px;
+  letter-spacing: 5px;
   text-align: center;
   vertical-align: middle;
   line-height: 55px;
@@ -70,7 +69,6 @@ h5 {
   border-width: thin;
   border-color: #f1f1f1;
   height: 100px;
-  margin: 10px;
 }
 
 #body {
