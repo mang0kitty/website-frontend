@@ -129,6 +129,7 @@ img {
   margin: 0 auto;
   display: block;
   padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 h4 {

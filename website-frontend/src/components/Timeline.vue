@@ -48,7 +48,7 @@ export default {
   padding-left: 0;
   flex: 1;
 }
-.el-timeline-item__wrapper p {
+.el-timeline-item__left p {
   color: grey;
 }
 .timeline-header {
@@ -128,6 +128,7 @@ p {
   left: 1px;
   width: 7px;
   height: 7px;
-  background-color: #024b0c;
+  background-color: green;
+  /* background-color: #024b0c; */
 }
 </style>

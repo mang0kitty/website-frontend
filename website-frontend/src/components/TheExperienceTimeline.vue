@@ -59,8 +59,10 @@ export default {
   margin-top: 0;
 }
 .experience {
+  padding-top: 30px;
   width: 960px;
   margin: 0 auto;
+  padding-bottom: 30px;
 }
 </style>
 

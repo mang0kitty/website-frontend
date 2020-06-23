@@ -8,7 +8,7 @@
       id="nav-right"
       theme="light"
       class="el-nav-menu"
-      active-text-color="#40E0D0"
+      active-text-color="green"
       mode="horizontal"
     >
       <el-menu-item index="1" @click="navigate('home')">Home</el-menu-item>
