@@ -17,7 +17,10 @@
           <div class="fypTitle">
             <h5 style="font-style:normal">
               Dissertation: {{finalYearProject.name}}
-              <a :href="finalYearProject.location">
+              <a
+                :href="finalYearProject.location"
+                target="_blank"
+              >
                 <i class="el-icon-document"></i>
               </a>
             </h5>
@@ -37,7 +40,7 @@
         <div class="otherProjects">
           <h5>Recognition + Other Projects</h5>
           <p v-for="op in otherProjects" :key="op.name" style="color:black">
-            <a :href="op.location">{{op.name}}</a>
+            <a :href="op.location" target="_blank">{{op.name}}</a>
           </p>
         </div>
       </div>
@@ -60,14 +63,15 @@ export default {
       },
       otherProjects: [
         {
-          name: "2018 Women Who Wow",
-          location: "https://www.tcd.ie/tangent/mentoring/women/"
-        },
-        {
           name: "Dark Web Visualization",
           tags: ["D3.js", "Python"],
           location: "https://darkweb.aideen.dev/index.html"
+        },
+        {
+          name: "2018 Women Who Wow",
+          location: "https://www.tcd.ie/tangent/mentoring/women/"
         }
+
         // {
         //   name: "HTTP/ 1.0",
         //   tags: ["C++"],

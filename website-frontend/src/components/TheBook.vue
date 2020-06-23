@@ -65,4 +65,12 @@ img {
   width: 150px;
   object-fit: cover;
 }
+p {
+  font-family: "avenir", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.7px;
+}
+.el-popover__title {
+  font-family: "avenir", sans-serif;
+}
 </style>

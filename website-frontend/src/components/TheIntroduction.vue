@@ -1,12 +1,12 @@
 <template>
   <div class="introduction">
     <div class="media">
-      <img src="../assets/me.jpg" />
+      <img src="../assets/profilecropped.jpg" />
     </div>
     <div class="body">
       <div class="content">
         <p>
-          I’m an Irish computer engineering graduate with a passion for software development and the secure and reliable deployment of systems at scale. I have experience as a Software Engineering Intern at AWS and will be returning to begin my career as a Security Engineer.
+          I’m an Irish computer engineering graduate with a passion for software development and the secure and reliable deployment of systems at scale. I have experience as a Software Engineering Intern at AWS and will be returning as a Graduate Security Engineer.
           <br />
           <br />When I’m not upskilling or trying to make a difference through code, you’ll find me reading books with a cup of tea, running miles, cooking, learning more about foreign policy and creating new connections.
         </p>
@@ -65,6 +65,7 @@ export default {
   stroke-width: 0.6;
   margin: 5px 10px;
   stroke: green;
+  margin-right: 25px;
 }
 .introduction {
   width: 960px;
@@ -76,10 +77,12 @@ export default {
   margin: 0 auto;
 }
 img {
-  width: 270px;
-  height: 320px;
-  border-radius: 10px;
+  width: 290px;
+  height: 340px;
+  clip-path: polygon(0% 0%, 100% 0%, 50% 100%, 0% 100%);
+  border-radius: 7px;
 }
+
 p {
   margin-top: 0;
   font-size: 12px;
@@ -91,5 +94,7 @@ p {
 
 .body {
   width: 450px;
+  margin-top: 80px;
+  margin-left: -80px;
 }
 </style>
