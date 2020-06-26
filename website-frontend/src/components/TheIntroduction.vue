@@ -1,7 +1,7 @@
 <template>
   <div class="introduction">
     <div class="media">
-      <img src="../assets/profilecropped.jpg" />
+      <img src="../assets/profile/profilecropped.jpg" />
     </div>
     <div class="body">
       <div class="content">
@@ -70,16 +70,16 @@ export default {
 .introduction {
   width: 960px;
   padding-top: 40px;
-  padding-bottom: 60px;
+  padding-bottom: 70px;
   flex-direction: row;
   display: flex;
   justify-content: space-evenly;
   margin: 0 auto;
 }
 img {
-  width: 290px;
+  width: 300px;
   height: 340px;
-  clip-path: polygon(0% 0%, 100% 0%, 50% 100%, 0% 100%);
+  clip-path: polygon(0% 0%, 100% 0%, 40% 100%, 0% 100%);
   border-radius: 7px;
 }
 
@@ -95,6 +95,6 @@ p {
 .body {
   width: 450px;
   margin-top: 80px;
-  margin-left: -80px;
+  margin-left: -100px;
 }
 </style>

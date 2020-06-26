@@ -3,6 +3,8 @@ import App from "./App.vue";
 import Router from "./router.js";
 import ElementUI from "element-ui";
 import "element-ui/lib/theme-chalk/index.css";
+import "@fortawesome/fontawesome-free/css/all.css";
+import "@fortawesome/fontawesome-free/js/all.js";
 
 Vue.use(ElementUI);
 Vue.config.productionTip = false;

@@ -64,6 +64,8 @@ img {
   height: 210px;
   width: 150px;
   object-fit: cover;
+  border-radius: 5px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
 }
 p {
   font-family: "avenir", sans-serif;

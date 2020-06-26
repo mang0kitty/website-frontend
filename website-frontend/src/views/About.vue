@@ -20,7 +20,9 @@
       <div id="title">
         <h3>Recent Projects</h3>
       </div>
-      <div id="body"></div>
+      <div id="body">
+        <RecentProjects />
+      </div>
     </section>
   </section>
 </template>
@@ -29,12 +31,14 @@
 import ExperienceTimeline from "@/components/TheExperienceTimeline.vue";
 import Introduction from "@/components/TheIntroduction.vue";
 import Education from "@/components/TheEducation.vue";
+import RecentProjects from "@/components/TheRecentProjects.vue";
 export default {
   name: "About",
   components: {
     ExperienceTimeline,
     Introduction,
-    Education
+    Education,
+    RecentProjects
   }
 };
 </script>

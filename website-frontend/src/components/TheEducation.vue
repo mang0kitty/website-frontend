@@ -3,7 +3,7 @@
     <div class="undergraduate">
       <div class="title">
         <h4>
-          <img src="../assets/gradCap.png" />
+          <img src="../assets/logos/gradCap.png" />
           BAI Computer Engineering,
           <span class="normal-heading">1st Class Honors</span>
         </h4>
@@ -18,24 +18,29 @@
             <h5 style="font-style:normal">
               Dissertation: {{finalYearProject.name}}
               <a
-                :href="finalYearProject.location"
+                href="../assets/projects/dissertation.pdf"
                 target="_blank"
               >
                 <i class="el-icon-document"></i>
+              </a>
+              <a :href="finalYearProject.location" target="_blank">
+                <i class="fab fa-github" aria-hidden="true"></i>
               </a>
             </h5>
           </div>
           <div class="subtitle">
             <p style="font-size:11px">Python, Kubernetes, Docker, Azure</p>
           </div>
-          <p style="color:black">
-            {{finalYearProject.content}}
-            <br />
-            <br />Read about the
-            <span
-              style="font-weight:bold; font-size:10px;"
-            >Security and Privacy Considerations of my Dissertation.</span>
-          </p>
+          <p style="color:black">{{finalYearProject.content}}</p>
+          <h5 style="font-style:normal">
+            Security and Privacy Considerations of my Dissertation
+            <a
+              :href="finalYearProject.location"
+              target="_blank"
+            >
+              <i class="el-icon-document"></i>
+            </a>
+          </h5>
         </div>
         <div class="otherProjects">
           <h5>Recognition + Other Projects</h5>
@@ -59,7 +64,8 @@ export default {
         name: "Parallelized DNA Analysis on Kubernetes",
         content:
           "This involved the development of a Kubernetes based control plane for the execution of DNA analysis jobs – enabling highly parallelized workloads to be executed rapidly and at low cost with minimal operational overhead. This involves the containerization of the existing application, the automation of deployments on Kubernetes and integration with the Kubernetes API to orchestrate these analysis jobs and their distributed storage requirements. To gather accurate performance benchmarks, I’m using Prometheus and Grafana – instrumenting the application itself to expose useful runtime metrics.",
-        location: "https://github.com/mang0kitty/bwbble"
+        location: "https://github.com/mang0kitty/bwbble",
+        file: "/assets/projects/dissertation.pdf"
       },
       otherProjects: [
         {
@@ -71,12 +77,6 @@ export default {
           name: "2018 Women Who Wow",
           location: "https://www.tcd.ie/tangent/mentoring/women/"
         }
-
-        // {
-        //   name: "HTTP/ 1.0",
-        //   tags: ["C++"],
-        //   location: "https://github.com/mang0kitty/http"
-        // }
       ],
       certifications: [
         {
@@ -94,6 +94,7 @@ export default {
 </script>
 
 <style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
 .finalYearProject.fypTitle {
   display: inline-block;
 }
@@ -103,10 +104,16 @@ export default {
 .el-icon-document {
   display: inline-block;
 }
+.body h5 {
+  font-family: "Karla", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
 .finalYearProject h5 {
   height: 0em;
   margin-bottom: 15px;
-  letter-spacing: 0.5px;
 }
 .finalYearProject p {
   margin-top: 0;
@@ -132,19 +139,20 @@ img {
   width: 960px;
   margin: 0 auto;
   display: block;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
   padding-top: 30px;
 }
 
 h4 {
-  font-family: "avenir", sans-serif;
-  font-size: 13px;
+  font-family: "Karla", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1.5px;
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
-  height: 4.3em;
+  height: 4em;
   position: relative;
 }
 p {
@@ -154,7 +162,7 @@ p {
   font-style: normal;
   font-family: "Poppins", sans-serif;
   color: grey;
-  padding-right: 85px;
+  padding-right: 95px;
   letter-spacing: 1px;
 }
 .title {
@@ -168,5 +176,18 @@ p {
   flex-direction: row;
   display: flex;
   justify-content: space-evenly;
+}
+a {
+  text-decoration: none;
+  color: black;
+
+  margin-right: 7px;
+}
+.feather-github {
+  stroke-width: 1;
+  margin: 5px 10px;
+  stroke: black;
+  margin-right: 25px;
+  height: 18px;
 }
 </style>

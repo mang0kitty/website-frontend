@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="header">
-      <h4>I'm Aideen Fay</h4>
+      <a href="#" @click="navigate('about')"><h4>I'm Aideen Fay</h4></a>
       <p id="subtext">An Engineer and Humanitarian</p>
     </div>
     <el-menu
@@ -12,8 +12,12 @@
       mode="horizontal"
     >
       <el-menu-item index="1" @click="navigate('home')">Home</el-menu-item>
-      <el-menu-item index="2" @click="navigate('home')">Projects</el-menu-item>
-      <el-menu-item index="3" @click="navigate('library')">Library</el-menu-item>
+      <el-menu-item index="2" @click="navigate('projects')"
+        >Projects</el-menu-item
+      >
+      <el-menu-item index="3" @click="navigate('library')"
+        >Library</el-menu-item
+      >
       <!-- <el-menu-item index="4" @click="navigate('home')">Resources</el-menu-item> -->
       <el-menu-item index="4" @click="navigate('about')">About</el-menu-item>
     </el-menu>
@@ -25,8 +29,8 @@ module.exports = {
   methods: {
     navigate(name) {
       this.$router.push({ name });
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -57,5 +61,9 @@ h4 {
 }
 #subtext {
   font-size: small;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
 </style>
