@@ -32,7 +32,14 @@ export default {
   },
   computed: {
     project() {
-      return projectJson.find((project) => project.id === this.id);
+      return projectJson.find(
+        (project) => this.getId(project.name) === this.id
+      );
+    },
+  },
+  methods: {
+    getId(name) {
+      return name.toLowerCase().replace(/[^\w\d-]/g, "-");
     },
   },
   watch: {

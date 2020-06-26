@@ -4,7 +4,7 @@
       <a :href="project.location" v-if="project.type == 'project'"
         ><h1>{{ project.name }}</h1></a
       >
-      <a href="#" @click="navigate(project.id)" v-if="project.type == 'blog'">
+      <a href="#" @click="navigate(project.name)" v-if="project.type == 'blog'">
         <h1>{{ project.name }}</h1>
       </a>
 
@@ -25,11 +25,15 @@ export default {
     project: Object,
   },
   methods: {
-    navigate: function(identifier) {
+    getId: function(name) {
+      return name.toLowerCase().replace(/[^\w\d-]/g, "-");
+    },
+    navigate: function(name) {
       this.$router.push({
         name: "blog-post",
-        params: { id: identifier, project: this.project },
-        props: this.project,
+        params: {
+          id: this.getId(name),
+        },
       });
     },
   },

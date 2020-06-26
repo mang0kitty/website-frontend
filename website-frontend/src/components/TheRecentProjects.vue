@@ -2,7 +2,7 @@
   <div class="recentProjects">
     <div class="project">
       <Project
-        v-for="project in projects.slice(projects.length - 3)"
+        v-for="project in filteredPosts"
         v-bind:key="project.name"
         :project="project"
       />
@@ -22,6 +22,11 @@ export default {
   },
   components: {
     Project,
+  },
+  computed: {
+    filteredPosts() {
+      return this.projects.filter((p) => p.type === "project");
+    },
   },
 };
 </script>

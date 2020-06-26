@@ -24,7 +24,7 @@
     "name": "Dark Web Visualization using D3.js",
     "type": "project",
     "description": "This hive plot visualization explores anonymity on the Dark Web. Although sites on the darknet offer to protect the privacy of their visitors and owner, administrators can inadvertently leak details that put everyone at risk.",
-    "location": "https://cdn.aideen.dev/projects/novelVis.pdf",
+    "location": "https://darkweb.aideen.dev/index.html",
     "tags": ["d3.js", "visualization", "privacy"],
     "image": "/img/blogPosts/vis2.png",
     "date": "25-03-20"

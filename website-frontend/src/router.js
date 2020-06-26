@@ -51,11 +51,7 @@ export default new Router({
         import(
           /* webpackChunkName: "blog-post" */ "./components/TheMarkdownPost.vue"
         ),
-      props(route) {
-        let props = { ...route.params };
-        props.id = parseInt(props.id);
-        return props;
-      },
+      props: true,
     },
   ],
 });
