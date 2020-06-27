@@ -1,5 +1,5 @@
 <template>
-  <div class="featuredPost">
+  <div class="featuredPost" v-if="project">
     <div class="media">
       <img :src="project.image" />
     </div>

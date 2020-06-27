@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "Automating and Parallelizing DNA Analysis using Kubernetes",
     "type": "project",
     "description": "Read Alignment is the bottleneck stage of DNA Analysis. Furthermore, read alignment programs that use a multireference genome, to reduce bias and increase accuracy, are dramatically slower again. BWBBLE, the read alignment program I focused on, is 100 times slower. My project successfully demonstrated that a linear speedup in BWBBLE is possible by parallelizing the read alignment stage using Kubernetes jobs. We also demonstrated that it was possible to achieve this cheaply and with minimal operational overhead using a custom built Kubernetes Controller. In doing so, we have made it possible for more researchers to easily leverage BWBBLE for their work. ",
@@ -10,7 +9,6 @@
     "date": "25-04-20"
   },
   {
-    "id": 2,
     "name": "The Security and Privacy Considerations of my Dissertation",
     "type": "project",
     "description": "This is an overview of the security and privacy considerations I found relating to my dissertation. I also touch on the broadly unexplored research domain of privacy preserving read alignment and various attacks that can be pursued by an adversary.",
@@ -20,7 +18,6 @@
     "date": "08-04-20"
   },
   {
-    "id": 3,
     "name": "Dark Web Visualization using D3.js",
     "type": "project",
     "description": "This hive plot visualization explores anonymity on the Dark Web. Although sites on the darknet offer to protect the privacy of their visitors and owner, administrators can inadvertently leak details that put everyone at risk.",
@@ -30,11 +27,10 @@
     "date": "25-03-20"
   },
   {
-    "id": 4,
     "name": "My notes on Kubernetes Security",
     "type": "blog",
     "description": "Security in Kubernetes gets interesting as it's both a distributed system and API-based platform - meaning different attack surfaces. Here is an overview of some basic attack vectors in Kubernetes.",
-    "location": "/MarkdownTest.md",
+    "location": "/posts/NotesOnK8sSecurity.md",
     "tags": ["kubernetes", "security"],
     "image": "/img/blogPosts/vis2.png",
     "date": "13-01-20"

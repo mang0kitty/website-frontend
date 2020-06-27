@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="header">
-      <a href="#" @click="navigate('about')"><h4>I'm Aideen Fay</h4></a>
+      <router-link to="about"><h4>I'm Aideen Fay</h4></router-link>
       <p id="subtext">An Engineer and Humanitarian</p>
     </div>
     <el-menu

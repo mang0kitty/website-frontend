@@ -1,12 +1,16 @@
 import Vue from "vue";
+import Vuex from "vuex";
 import App from "./App.vue";
 import Router from "./router.js";
 import ElementUI from "element-ui";
+
 import "element-ui/lib/theme-chalk/index.css";
 import "@fortawesome/fontawesome-free/css/all.css";
 import "@fortawesome/fontawesome-free/js/all.js";
+import store from "./store";
 
 Vue.use(ElementUI);
+Vue.use(Vuex);
 Vue.config.productionTip = false;
 
 export function CleanHTML(value) {
@@ -53,5 +57,6 @@ export function GetPreview(text) {
 Vue.filter("preview", GetPreview);
 new Vue({
   router: Router,
+  store: store,
   render: (h) => h(App),
 }).$mount("#app");

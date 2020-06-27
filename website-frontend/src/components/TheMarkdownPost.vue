@@ -3,8 +3,6 @@
 </template>
 
 <script>
-import projectJson from "../assets/posts/projects.json";
-
 var md = require("markdown-it")({
   html: true,
   linkify: true,
@@ -28,11 +26,11 @@ export default {
     };
   },
   props: {
-    id: Number,
+    id: String,
   },
   computed: {
     project() {
-      return projectJson.find(
+      return this.$store.state.posts.find(
         (project) => this.getId(project.name) === this.id
       );
     },

@@ -1,12 +1,18 @@
 <template>
   <div class="post">
     <div class="content">
-      <a :href="project.location" v-if="project.type == 'project'"
+      <a
+        :href="project.location"
+        v-if="project.type == 'project'"
+        target="_blank"
         ><h1>{{ project.name }}</h1></a
       >
-      <a href="#" @click="navigate(project.name)" v-if="project.type == 'blog'">
+      <router-link
+        :to="{ name: 'blog-post', params: { id: getId(project.name) } }"
+        v-if="project.type == 'blog'"
+      >
         <h1>{{ project.name }}</h1>
-      </a>
+      </router-link>
 
       <p class="description">{{ project.description }}</p>
       <p class="date">{{ project.date }}</p>
@@ -27,14 +33,6 @@ export default {
   methods: {
     getId: function(name) {
       return name.toLowerCase().replace(/[^\w\d-]/g, "-");
-    },
-    navigate: function(name) {
-      this.$router.push({
-        name: "blog-post",
-        params: {
-          id: this.getId(name),
-        },
-      });
     },
   },
 };

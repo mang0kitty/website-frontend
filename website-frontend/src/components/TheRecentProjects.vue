@@ -12,21 +12,25 @@
 
 <script>
 import Project from "@/components/TheProject.vue";
-import projectJson from "../assets/posts/projects.json";
+
 export default {
   name: "RecentProjects",
   data: function() {
-    return {
-      projects: projectJson,
-    };
+    return {};
   },
   components: {
     Project,
   },
   computed: {
-    filteredPosts() {
-      return this.projects.filter((p) => p.type === "project");
+    projects() {
+      return this.$store.state.posts;
     },
+    filteredPosts() {
+      return this.$store.state.posts.filter((p) => p.type === "project");
+    },
+  },
+  mounted() {
+    this.$store.dispatch("LOAD_POSTS");
   },
 };
 </script>

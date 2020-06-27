@@ -23,12 +23,19 @@
 import FeaturedPost from "@/components/TheFeaturedPost.vue";
 import Post from "@/components/ThePost.vue";
 // import MarkdownPost from "@/components/TheMarkdownPost.vue";
-import projectJson from "../assets/posts/projects.json";
 export default {
   data: function() {
-    return {
-      projects: projectJson,
-    };
+    return {};
+  },
+
+  computed: {
+    projects() {
+      return this.$store.state.posts;
+    },
+  },
+
+  mounted() {
+    this.$store.dispatch("LOAD_POSTS");
   },
 
   components: {
