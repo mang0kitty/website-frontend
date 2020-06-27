@@ -19,7 +19,7 @@ Network visualizations are notoriously hard to interpret–their canonical visua
 <div style="text-align:center;padding-top:20px;padding-bottom: 10px;">
 	<img src="/img/DarkWebVis/Trad1.png" style="height:300px;width:350px;padding-right:20px;"alt="Traditional large network visualizations">
     <img src="/img/DarkWebVis/Trad2.png" style="height:300px;width:350px;"alt="Traditional large network visualizations">
-	<p style="font-style:italics">Traditional large network visualizations using Networkx and Gephi.</p>
+	<p >Traditional large network visualizations using Networkx and Gephi.</p>
 </div>
 
 <!-- ![Traditional large network visualizations](/img/DarkWebVis/Trad1.png)

@@ -6,7 +6,6 @@ export default class BlogProject extends Project {
     super(data);
 
     this.image = data.image;
-    this.a = data.id;
   }
 
   navigate() {

@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="header">
-      <router-link to="about"><h4>I'm Aideen Fay</h4></router-link>
+      <router-link :to="{ name: 'about' }"><h4>I'm Aideen Fay</h4></router-link>
       <p id="subtext">An Engineer and Humanitarian</p>
     </div>
     <el-menu
