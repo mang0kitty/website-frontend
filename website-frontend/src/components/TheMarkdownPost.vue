@@ -31,7 +31,7 @@ export default {
   computed: {
     project() {
       return this.$store.state.posts.find(
-        (project) => this.getId(project.name) === this.id
+        (post) => this.getId(post.name) === this.id
       );
     },
   },
@@ -41,15 +41,19 @@ export default {
     },
   },
   watch: {
-    id: {
+    project: {
       handler() {
         fetch(this.project.location)
           .then((res) => res.text())
           .then((content) => md.render(content))
           .then((html) => (this.content = html));
       },
+
       immediate: true,
     },
+  },
+  mounted() {
+    this.$store.dispatch("LOAD_POSTS");
   },
 };
 </script>
@@ -69,13 +73,13 @@ export default {
 
 .markdownPost h1 {
   font-family: "Karla", sans-serif;
-  font-size: 14px;
+  font-size: 17px;
   letter-spacing: 1px;
   font-weight: 500;
 }
 .markdownPost h2 {
   font-family: "Karla", sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 1px;
   font-weight: 500;
 }
@@ -87,7 +91,7 @@ export default {
 }
 .markdownPost h4 {
   font-family: "Karla", sans-serif;
-  font-size: 13px;
+  font-size: 11px;
   letter-spacing: 1px;
   font-weight: 500;
 }

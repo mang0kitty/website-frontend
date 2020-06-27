@@ -30,7 +30,7 @@
     "name": "My notes on Kubernetes Security",
     "type": "blog",
     "description": "Security in Kubernetes gets interesting as it's both a distributed system and API-based platform - meaning different attack surfaces. Here is an overview of some basic attack vectors in Kubernetes.",
-    "location": "/posts/NotesOnK8sSecurity.md",
+    "location": "/posts/DarkWebHivePlotReadMore.md",
     "tags": ["kubernetes", "security"],
     "image": "/img/blogPosts/vis2.png",
     "date": "13-01-20"
