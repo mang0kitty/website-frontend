@@ -25,7 +25,7 @@ export default {
     },
     filterProjects: function() {
       return this.$store.state.posts.filter(
-        (project) => project.type === "project"
+        (project) => project.type === "project" && project.visible === "true"
       );
     },
   },
