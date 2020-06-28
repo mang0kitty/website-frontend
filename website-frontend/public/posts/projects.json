@@ -2,7 +2,7 @@
   {
     "name": "Automating and Parallelizing DNA Analysis using Kubernetes",
     "type": "project",
-    "visible": "true",
+    "visible": true,
     "description": "Read Alignment is the bottleneck stage of DNA Analysis. Furthermore, read alignment programs that use a multireference genome, to reduce bias and increase accuracy, are dramatically slower again. BWBBLE, the read alignment program I focused on, is 100 times slower. My project successfully demonstrated that a linear speedup in BWBBLE is possible by parallelizing the read alignment stage using Kubernetes jobs. We also demonstrated that it was possible to achieve this cheaply and with minimal operational overhead using a custom built Kubernetes Controller. In doing so, we have made it possible for more researchers to easily leverage BWBBLE for their work. ",
     "location": "https://cdn.aideen.dev/projects/dissertation.pdf",
     "tags": ["genetics", "kubernetes", "azure", "automation"],
@@ -12,7 +12,7 @@
   {
     "name": "The Security and Privacy Considerations of my Dissertation",
     "type": "project",
-    "visible": "true",
+    "visible": true,
     "description": "This is an overview of the security and privacy considerations I found relating to my dissertation. I also touch on the broadly unexplored research domain of privacy preserving read alignment and various attacks that can be pursued by an adversary.",
     "location": "https://cdn.aideen.dev/projects/SecurityPrivacyFYP.pdf",
     "tags": ["security", "kubernetes", "azure", "privacy"],
@@ -22,7 +22,7 @@
   {
     "name": "Dark Web Visualization using D3.js",
     "type": "project",
-    "visible": "true",
+    "visible": true,
     "description": "This hive plot visualization explores anonymity on the Dark Web. Although sites on the darknet offer to protect the privacy of their visitors and owner, administrators can inadvertently leak details that put everyone at risk.",
     "location": "https://darkweb.aideen.dev/index.html",
     "tags": ["d3.js", "visualization", "privacy"],
@@ -32,7 +32,7 @@
   {
     "name": "My notes on Kubernetes Security",
     "type": "blog",
-    "visible": "true",
+    "visible": true,
     "description": "Security in Kubernetes gets interesting as it's both a distributed system and API-based platform - meaning different attack surfaces. Here is an overview of some basic attack vectors in Kubernetes.",
     "location": "/posts/NotesOnK8sSecurity.md",
     "tags": ["kubernetes", "security"],
@@ -42,7 +42,7 @@
   {
     "name": "Dark Web Hive Plot Info",
     "type": "blog",
-    "visible": "false",
+    "visible": false,
     "description": "This hive plot visualization explores anonymity on the Dark Web. Although sites on the darknet offer to protect the privacy of their visitors and owner, administrators can inadvertently leak details that put everyone at risk.",
     "location": "/posts/DarkWebHivePlot.md",
     "tags": ["d3.js", "visualization", "privacy"],

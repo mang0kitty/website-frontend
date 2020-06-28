@@ -30,9 +30,7 @@ export default {
 
   computed: {
     projects() {
-      return this.$store.state.posts.filter(
-        (project) => project.visible === "true"
-      );
+      return this.$store.state.posts.filter((project) => project.visible);
     },
   },
 
