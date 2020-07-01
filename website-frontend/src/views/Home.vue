@@ -15,7 +15,7 @@
         </div>
       </div>
     </div>
-    <div class="about"></div>
+    <!-- <div class="about"></div> -->
   </div>
 </template>
 
@@ -50,7 +50,7 @@ export default {
 .home {
   flex-direction: row;
   display: flex;
-  width: 1224px;
+  width: 960px;
   margin: 0 auto;
   margin-top: 20px;
 }
@@ -68,9 +68,9 @@ export default {
   border-width: thin;
   border-color: grey;
 }
-.about {
+/* .about {
   flex: 1;
-}
+} */
 h1 {
   border-bottom: 1px solid rgb(204, 204, 204);
   text-transform: uppercase;

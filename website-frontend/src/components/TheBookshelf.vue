@@ -11,7 +11,12 @@
             :active="2020"
           >
             <slot slot="description">
-              <Book class="book" v-for="book in yearEntry.books" v-bind:key="book" :book="book" />
+              <Book
+                class="book"
+                v-for="book in yearEntry.books"
+                v-bind:key="book.isbn"
+                :book="book"
+              />
             </slot>
           </el-step>
         </el-steps>
@@ -26,12 +31,12 @@ import Book from "@/components/TheBook.vue";
 export default {
   name: "App",
   components: {
-    Book
+    Book,
   },
   data: function() {
     return {
       bookShelf: {},
-      fullDesc: false
+      fullDesc: false,
     };
   },
   beforeMount() {
@@ -39,7 +44,7 @@ export default {
   },
   methods: {
     async getBooks() {
-      const res = await fetch("http://localhost:8000/books");
+      const res = await fetch("https://api.aideen.dev/books");
       const books = await res.json();
 
       const years = books.reduce((years, book) => {
@@ -51,14 +56,14 @@ export default {
       // array[Book] → map[year]array[Book] → array[{ year: int, book: array[Book]}]
       // books → groupBy(year) → project({ year, books })
 
-      this.bookShelf = Object.keys(years).map(year => ({
+      this.bookShelf = Object.keys(years).map((year) => ({
         year,
-        books: years[year]
+        books: years[year],
       }));
 
       this.bookShelf.sort((a, b) => b.year - a.year);
-    }
-  }
+    },
+  },
 };
 </script>
 

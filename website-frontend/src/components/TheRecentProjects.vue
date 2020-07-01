@@ -26,7 +26,9 @@ export default {
       return this.$store.state.posts;
     },
     filteredPosts() {
-      return this.$store.state.posts.filter((p) => p.type === "project");
+      return this.$store.state.posts.filter(
+        (p) => p.type === "project" && p.visible === true
+      );
     },
   },
   mounted() {
