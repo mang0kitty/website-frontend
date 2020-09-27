@@ -33,7 +33,7 @@ export default {
   components: {
     Book,
   },
-  data: function() {
+  data: function () {
     return {
       bookShelf: {},
       fullDesc: false,
@@ -44,7 +44,7 @@ export default {
   },
   methods: {
     async getBooks() {
-      const res = await fetch("https://api.aideen.dev/books");
+      const res = await fetch(this.store.state.apiUrl + "/books");
       const books = await res.json();
 
       const years = books.reduce((years, book) => {

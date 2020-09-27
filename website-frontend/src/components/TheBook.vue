@@ -30,17 +30,11 @@
           "
         >
           {{ book.description | striphtml | preview }}
-          <el-link v-on:click="fullDesc = true" type="danger"
-            >Read more</el-link
-          >
+          <el-link v-on:click="fullDesc = true" type="danger">Read more</el-link>
         </p>
         <p v-else>{{ book.description | striphtml }}</p>
       </div>
-      <img
-        :src="'http://localhost:8000' + book.photo"
-        class="book"
-        slot="reference"
-      />
+      <img :src="apiUrl + book.photo" class="book" slot="reference" />
     </el-popover>
   </div>
 </template>
@@ -51,7 +45,7 @@ export default {
   props: {
     book: Object,
   },
-  data: function() {
+  data: function () {
     return {
       fullDesc: false,
     };
@@ -59,6 +53,11 @@ export default {
   methods: {
     checkPreviewDescLength(text) {
       return this.$options.filters.preview(text);
+    },
+  },
+  props: {
+    apiUrl() {
+      return this.$store.state.apiUrl;
     },
   },
 };

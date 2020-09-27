@@ -4,7 +4,10 @@ import Vuex from "vuex";
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-  state: { posts: [] },
+  state: {
+    posts: [],
+    apiUrl: localStorage.getItem("api:url") || "https://api.aideen.dev",
+  },
   mutations: {
     SET_POSTS(state, posts) {
       state.posts = posts;
