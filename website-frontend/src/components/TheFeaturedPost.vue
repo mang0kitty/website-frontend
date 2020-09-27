@@ -1,12 +1,9 @@
 <template>
   <div class="featuredPost" v-if="project">
-    <div class="media">
-      <img :src="project.image" />
-    </div>
     <div class="content">
-      <a :href="project.location"
-        ><h1>{{ project.name }}</h1></a
-      >
+      <a :href="project.location">
+        <h1>{{ project.name }}</h1>
+      </a>
       <p class="description">{{ project.description }}</p>
       <p class="date">{{ project.date }}</p>
     </div>

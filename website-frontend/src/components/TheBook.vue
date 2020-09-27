@@ -55,7 +55,7 @@ export default {
       return this.$options.filters.preview(text);
     },
   },
-  props: {
+  computed: {
     apiUrl() {
       return this.$store.state.apiUrl;
     },
