@@ -32,7 +32,7 @@ export default {
       return allProjects.value.filter(p => p.visible)
     })
 
-    fetch("/posts/projects.json")
+    fetch("/api/projects.json")
         .then((res) => res.json())
         .then(p => allProjects.value = p)
 
