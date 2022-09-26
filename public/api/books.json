@@ -1259,5 +1259,2037 @@
         "previewLink": "http://books.google.ie/books?id=v3nZvQEACAAJ&dq=isbn:9781472154668&hl=&cd=1&source=gbs_api",
         "infoLink": "http://books.google.ie/books?id=v3nZvQEACAAJ&dq=isbn:9781472154668&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Where_the_Crawdads_Sing.html?hl=&id=v3nZvQEACAAJ"
+    },
+    {
+        "isbn": "9781910559062",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781910559062.jpg",
+        "title": "Moon Time",
+        "subtitle": "Harness the Ever-changing Energy of Your Menstrual Cycle",
+        "authors": [
+            "Lucy H. Pearce"
+        ],
+        "publishedDate": "2015",
+        "description": "Moon Time shares a fully embodied understanding of your menstrual cycle. Full of practical insight, empowering resources, creative activities and passion, this book will put you back in touch with your body's wisdom. . Learn to live in flow with your female body . Find balance in your life and work through charting your cycle . Heal PMS naturally . Connect to your innate creativity . Create a red tent or moon lodge Whether you are coming off the Pill, wanting to understand your fertility, struggling with PMS, healing from womb issues, are coming back to your cycles after childbirth ... or just want a deeper understanding of your body. Moon Time is for you. With over 45 pages of additional material including: . Fertility charting . Creating ceremonies: menarche, mother blessing, menopause ... . Moon phases . Expanded and fully-updated resource section.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1910559067"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781910559062"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+            "Menstruation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ePSArgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ePSArgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=ePSArgEACAAJ&dq=isbn:9781910559062&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=ePSArgEACAAJ&dq=isbn:9781910559062&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moon_Time.html?hl=&id=ePSArgEACAAJ"
+    },
+    {
+        "isbn": "9780807014295",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780807014295.jpg",
+        "title": "Man's Search for Meaning",
+        "authors": [
+            "Viktor E. Frankl",
+            "Ilse Lasch",
+            "Harold S. Kushner"
+        ],
+        "publisher": "Beacon Press (MA)",
+        "publishedDate": "2006-01-01",
+        "description": "This author's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, he argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful. This book has become one of the most influential books in America; it continues to inspire us all to find significance in the very act of living.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "080701429X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780807014295"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 165,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3397,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=kDOlPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=kDOlPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=kDOlPwAACAAJ&dq=isbn:9780807014295&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=kDOlPwAACAAJ&dq=isbn:9780807014295&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Man_s_Search_for_Meaning.html?hl=&id=kDOlPwAACAAJ"
+    },
+    {
+        "isbn": "9781936891375",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9781936891375.jpg",
+        "title": "Do the Work",
+        "subtitle": "Overcome Resistance and Get Out of Your Own Way",
+        "authors": [
+            "Steven Pressfield"
+        ],
+        "publishedDate": "2015-03-10",
+        "description": "\"This book is designed to coach you through a project (a book, a ballet, a new business venture, a philanthropic enterprise) from conception to finished product, seeing it from the point of view of Resistance.\"--Page [1].",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1936891379"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781936891375"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+            "Creative thinking"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=m1UDrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=m1UDrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=m1UDrgEACAAJ&dq=isbn:9781936891375&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=m1UDrgEACAAJ&dq=isbn:9781936891375&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Do_the_Work.html?hl=&id=m1UDrgEACAAJ"
+    },
+    {
+        "isbn": "9780062666475",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780062666475.jpg",
+        "title": "The Alzheimer's Solution",
+        "subtitle": "A Breakthrough Program to Prevent and Reverse the Symptoms of Cognitive Decline at Every Age",
+        "authors": [
+            "Dean Sherzai",
+            "Ayesha Sherzai"
+        ],
+        "publisher": "HarperOne",
+        "publishedDate": "2017-09-12",
+        "description": "A revolutionary, proven program for reversing the symptoms of Alzheimer's disease and cognitive decline from award winning neurologists and codirectors of the Brain Health and Alzheimer's Prevention Program at Loma Linda University Medical Center Over 47 million people are currently living with Alzheimer’s disease worldwide. While all other major diseases are in decline, deaths from Alzheimer’s have increased radically. What you or your loved ones don’t yet know is that 90 percent of Alzheimer’s cases can be prevented. Based on the largest clinical and observational study to date, neurologists and codirectors of the Brain Health and Alzheimer’s Prevention Program at Loma Linda University Medical Center, Drs. Dean and Ayesha Sherzai, offer in The Alzheimer’s Solution the first comprehensive program for preventing Alzheimer’s disease and improving cognitive function. Alzheimer’s disease isn’t a genetic inevitability, and a diagnosis does not need to come with a death sentence. Ninety percent of grandparents, parents, husbands, and wives can be spared. Ninety percent of us can avoid ever getting Alzheimer’s, and for the 10 percent with strong genetic risk for cognitive decline, the disease can be delayed by ten to fifteen years. This isn’t an estimate or wishful thinking; it’s a percentage based on rigorous science and the remarkable results the Sherzais have seen firsthand in their clinic. This much-needed revolutionary book reveals how the brain is a living universe, directly influenced by nutrition, exercise, stress, sleep, and engagement. In other words: what you feed it, how you treat it, when you challenge it, and the ways in which you allow it to rest. These factors are the pillars of the groundbreaking program you’ll find in these pages, which features a personalized assessment for evaluating risk, a five-part program for prevention and symptom-reversal, and day-by-day guides for optimizing cognitive function. You can prevent Alzheimer’s disease from affecting you, your family, friends, and loved ones. Even with a diagnosis, you can reverse cognitive decline and add vibrant years to your life. The future of your brain is finally within your control.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0062666479"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062666475"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LtZJMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LtZJMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=LtZJMQAACAAJ&dq=isbn:9780062666475&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=LtZJMQAACAAJ&dq=isbn:9780062666475&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Alzheimer_s_Solution.html?hl=&id=LtZJMQAACAAJ"
+    },
+    {
+        "isbn": "9781643751375",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9781643751375.jpg",
+        "title": "Why We Swim",
+        "authors": [
+            "Bonnie Tsui"
+        ],
+        "publisher": "Algonquin Books",
+        "publishedDate": "2021-04-13",
+        "description": "A Time Magazine Must-Read Book of 2020 A Best Book of the Season: BuzzFeed * Bustle * San Francisco Chronicle A Best Book of the Year: NPR's Book Concierge * Washington Independent Review of Books “A fascinating and beautifully written love letter to water. I was enchanted by this book.\" —Rebecca Skloot, bestselling author of The Immortal Life of Henrietta Lacks An immersive, unforgettable, and eye-opening perspective on swimming—and on human behavior itself. We swim in freezing Arctic waters and piranha-infested rivers to test our limits. We swim for pleasure, for exercise, for healing. But humans, unlike other animals that are drawn to water, are not natural-born swimmers. We must be taught. Our evolutionary ancestors learned for survival; now, in the twenty-first century, swimming is one of the most popular activities in the world. Why We Swim is propelled by stories of Olympic champions, a Baghdad swim club that meets in Saddam Hussein’s palace pool, modern-day Japanese samurai swimmers, and even an Icelandic fisherman who improbably survives a wintry six-hour swim after a shipwreck. New York Times contributor Bonnie Tsui, a swimmer herself, dives into the deep, from the San Francisco Bay to the South China Sea, investigating what it is about water that seduces us, despite its dangers, and why we come back to it again and again.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781643751375"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1643751379"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Sports & Recreation"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xn0eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xn0eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=xn0eEAAAQBAJ&dq=isbn:9781643751375&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=xn0eEAAAQBAJ&dq=isbn:9781643751375&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Swim.html?hl=&id=xn0eEAAAQBAJ"
+    },
+    {
+        "isbn": "9780593238295",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780593238295.jpg",
+        "title": "AI 2041",
+        "subtitle": "Ten Visions for Our Future",
+        "authors": [
+            "Kai-Fu Lee",
+            "Qiufan Chen"
+        ],
+        "publishedDate": "2021",
+        "description": "\"In a ... blend of science and imagination, the former president of Google China and a leading writer of speculative fiction join forces to answer an urgent question: how will artificial intelligence change our world over the next twenty years? ... Many people know little about it apart from visions of dystopian robots or flying cars. Though the term has been around for half a century, it is only now, Kai-Fu Lee argues, that AI is poised to upend our society, just as the arrival of technologies like electricity and smart phones did before it\"--",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780593238295"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "059323829X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=o79AEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=o79AEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=o79AEAAAQBAJ&dq=isbn:9780593238295&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=o79AEAAAQBAJ&dq=isbn:9780593238295&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/AI_2041.html?hl=&id=o79AEAAAQBAJ"
+    },
+    {
+        "isbn": "9780062301253",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780062301253.jpg",
+        "title": "Elon Musk",
+        "subtitle": "Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "authors": [
+            "Ashlee Vance"
+        ],
+        "publisher": "Ecco",
+        "publishedDate": "2017-01-24",
+        "description": "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley’s most exciting, unpredictable, and ambitious entrepreneurs—a real-life Tony Stark—and a fascinating exploration of the renewal of American invention and its new “makers.” Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his Internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius’s life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk’s story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk—one of the most unusual and striking figures in American business history—is a contemporary, visionary amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy. Thorough and insightful, Elon Musk brings to life a technology industry that is rapidly and dramatically changing by examining the life of one of its most powerful and influential titans.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "006230125X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062301253"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 19,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=Ma4sjwEACAAJ&dq=isbn:9780062301253&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=Ma4sjwEACAAJ&dq=isbn:9780062301253&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elon_Musk.html?hl=&id=Ma4sjwEACAAJ"
+    },
+    {
+        "isbn": "9780143128854",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780143128854.jpg",
+        "title": "Originals",
+        "subtitle": "How Non-Conformists Move the World",
+        "authors": [
+            "Adam Grant"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2017-02-07",
+        "description": "The #1 New York Times bestseller that examines how people can champion new ideas in their careers and everyday life—and how leaders can fight groupthink, from the author of Think Again and co-author of Option B “Filled with fresh insights on a broad array of topics that are important to our personal and professional lives.”—The New York Times DealBook “Originals is one of the most important and captivating books I have ever read, full of surprising and powerful ideas. It will not only change the way you see the world; it might just change the way you live your life. And it could very well inspire you to change your world.” —Sheryl Sandberg, COO of Facebook and author of Lean In With Give and Take, Adam Grant not only introduced a landmark new paradigm for success but also established himself as one of his generation’s most compelling and provocative thought leaders. In Originals he again addresses the challenge of improving the world, but now from the perspective of becoming original: choosing to champion novel ideas and values that go against the grain, battle conformity, and buck outdated traditions. How can we originate new ideas, policies, and practices without risking it all? Using surprising studies and stories spanning business, politics, sports, and entertainment, Grant explores how to recognize a good idea, speak up without getting silenced, build a coalition of allies, choose the right time to act, and manage fear and doubt; how parents and teachers can nurture originality in children; and how leaders can build cultures that welcome dissent. Learn from an entrepreneur who pitches his start-ups by highlighting the reasons not to invest, a woman at Apple who challenged Steve Jobs from three levels below, an analyst who overturned the rule of secrecy at the CIA, a billionaire financial wizard who fires employees for failing to criticize him, and a TV executive who didn’t even work in comedy but saved Seinfeld from the cutting-room floor. The payoff is a set of groundbreaking insights about rejecting conformity and improving the status quo.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780143128854"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "014312885X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pI3cDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pI3cDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=pI3cDQAAQBAJ&dq=isbn:9780143128854&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=pI3cDQAAQBAJ&dq=isbn:9780143128854&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Originals.html?hl=&id=pI3cDQAAQBAJ"
+    },
+    {
+        "isbn": "9780593137239",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780593137239.jpg",
+        "title": "Like Streams to the Ocean",
+        "subtitle": "Notes on Ego, Love, and the Things That Make Us Who We Are: Essaysc",
+        "authors": [
+            "Jedidiah Jenkins"
+        ],
+        "publisher": "Convergent Books",
+        "publishedDate": "2021",
+        "description": "\"A moving meditation on the hidden, sometimes difficult topics we must consider to live an authentic life, from the New York Times bestselling author of To Shake the Sleeping Self. We aren't born into a self. It is created without our consent, built on top of our circumstances, the off-handed comments we hear from others, and the moments that scared us most when we were young. But in the busyness of our daily life, we rarely get the chance to think clearly about the questions that matter most. Who am I? Where do I belong? How much of who I am and what I do boils down to avoiding the things that make me feel small? We tuck these questions into the corner of our minds, but they drive our behavior far more than we give them credit for, even after we become adults. Writing with the passion and clarity that made his debut, To Shake the Sleeping Self, a national bestseller, Jenkins makes space to explore the seven topics we must think about in order to live a deeply considered life: ego, family, work, love, nature, death, and the soul. He considers the experiences that shape us into who we are, whether they're as heart-pounding as a rafting trip through the whitewater of the Grand Canyon, or as ordinary as the moment when we look in the mirror each morning. Through it all, Jenkins leads readers on a wide-ranging conversation about finding fulfillment in the people and places around us, and discovering the courage to show our deepest selves to the world. Like Streams to the Ocean is a profound reflection from one of our most original writers, a necessary read for anyone seeking a companion on the road to understanding\"--",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780593137239"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "059313723X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "BIOGRAPHY & AUTOBIOGRAPHY"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Z1X4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Z1X4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=Z1X4DwAAQBAJ&dq=isbn:9780593137239&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=Z1X4DwAAQBAJ&dq=isbn:9780593137239&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Like_Streams_to_the_Ocean.html?hl=&id=Z1X4DwAAQBAJ"
+    },
+    {
+        "isbn": "9781509858637",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9781509858637.jpg",
+        "title": "This is Going to Hurt",
+        "subtitle": "Secret Diaries of a Junior Doctor",
+        "authors": [
+            "Adam Kay"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2018",
+        "description": "As soon as Adam Kay set foot on a hospital ward for the first time, he realised there's quite a lot they don't teach you at medical school ... His diaries from the NHS front line - scribbled in secret after long nights, endless days and missed weekends - are hilarious, horrifying and heartbreaking by turns. This Is Going to Hurt is everything you wanted to know about being a junior doctor, and more than a few things you really didn't. And yes, it may leave a scar.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1509858636"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781509858637"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 279,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ps1CswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ps1CswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=ps1CswEACAAJ&dq=isbn:9781509858637&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=ps1CswEACAAJ&dq=isbn:9781509858637&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_is_Going_to_Hurt.html?hl=&id=ps1CswEACAAJ"
+    },
+    {
+        "isbn": "9781846687563",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9781846687563.jpg",
+        "title": "Beer in the Snooker Club",
+        "authors": [
+            "Waguih Ghali"
+        ],
+        "publishedDate": "2010",
+        "description": "Behind the bar at Jameel's in Cairo hang two mugs engraved with the names of Ram and Font. During their years together in London, they drank many a pint of Bass from these mugs. But there is no Bass in Nasser's Egypt, so Ram and Font have to make do with a heady mixture of beer, vodka and whisky. Yearning for Bass they long to be far from a revolution that neither serves the people nor allows their rich aunts to live the life of leisure they are accustomed to. Stranded between two cultures, Ram and Font must choose between dangerous political opposition and reluctant acquiescence. First published in 1964, Beer in the Snooker Club is a classic of the literature of emigration.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "184668756X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781846687563"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+            "Egypt"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=42_bQwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=42_bQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=42_bQwAACAAJ&dq=isbn:9781846687563&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=42_bQwAACAAJ&dq=isbn:9781846687563&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beer_in_the_Snooker_Club.html?hl=&id=42_bQwAACAAJ"
+    },
+    {
+        "isbn": "9780593135204",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780593135204.jpg",
+        "title": "Project Hail Mary",
+        "subtitle": "A Novel",
+        "authors": [
+            "Andy Weir"
+        ],
+        "publishedDate": "2021",
+        "description": "The sole survivor on a desperate, last-chance mission to save both humanity and the earth, Ryland Grace is hurtled into the depths of space when he must conquer an extinction-level threat to our species.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780593135204"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0593135202"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 83,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=GrYsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=GrYsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=GrYsEAAAQBAJ&dq=isbn:9780593135204&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=GrYsEAAAQBAJ&dq=isbn:9780593135204&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Project_Hail_Mary.html?hl=&id=GrYsEAAAQBAJ"
+    },
+    {
+        "isbn": "9780571374892",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780571374892.jpg",
+        "title": "Klara and the Sun * Christmas EDI",
+        "authors": [
+            "KAZUO. ISHIGURO"
+        ],
+        "publishedDate": "2021-10-28",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0571374891"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780571374892"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wYuZzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wYuZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=wYuZzgEACAAJ&dq=isbn:9780571374892&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=wYuZzgEACAAJ&dq=isbn:9780571374892&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Klara_and_the_Sun_Christmas_EDI.html?hl=&id=wYuZzgEACAAJ"
+    },
+    {
+        "isbn": "9780307591562",
+        "dateRead": "2021-02-01",
+        "imageLink": "/books/images/9780307591562.jpg",
+        "title": "The Happiness Advantage",
+        "subtitle": "How a Positive Brain Fuels Success in Work and Life",
+        "authors": [
+            "Shawn Achor"
+        ],
+        "publisher": "Currency",
+        "publishedDate": "2010-09-14",
+        "description": "INTERNATIONAL BESTSELLER • The happy secret to greater success and fulfillment in work and life—a must-read for everyone trying to flourish in a world of increasing stress and negativity “Thoughtfully lays out the steps to increasing workplace positivity.”—Forbes In the book that inspired one of the most popular TED Talks of all time, New York Times bestselling author Shawn Achor reveals how rewiring our brain for happiness helps us achieve more in our careers and our relationships and as students, leaders, and parents. Conventional wisdom holds that once we succeed, we’ll be happy; that once we get that great job, win that next promotion, lose those five pounds, happiness will follow. But the science reveals this formula to be backward: Happiness fuels success, not the other way around. Research shows that happy employees are more productive, more creative, and better problem solvers than their unhappy peers. And positive people are significantly healthier and less stressed and enjoy deeper social interaction than the less positive people around them. Drawing on his original research—including one of the largest studies of happiness ever conducted—and work in boardrooms and classrooms across forty-two countries, Achor shows us how to rewire our brains for positivity and optimism to reap the happiness advantage in our lives, our careers, and even our health. His strategies include: • The Tetris Effect: how to retrain our brains to spot patterns of possibility so we can see and seize opportunities all around us • Social Investment: how to earn the dividends of a strong social support network • The Ripple Effect: how to spread positive change within our teams, companies, and families By turns fascinating, hopeful, and timely, The Happiness Advantage reveals how small shifts in our mind-set and habits can produce big gains at work, at home, and elsewhere.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0307591565"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780307591562"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=id_AzCY68WoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=id_AzCY68WoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=id_AzCY68WoC&dq=isbn:9780307591562&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=id_AzCY68WoC&dq=isbn:9780307591562&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Happiness_Advantage.html?hl=&id=id_AzCY68WoC"
+    },
+    {
+        "isbn": "9781524763138",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781524763138.jpg",
+        "title": "Becoming",
+        "authors": [
+            "Michelle Obama"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2018",
+        "description": "\"Oprah's Book Club 2018 selection\"--Jacket.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781524763138"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1524763136"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+            "BIOGRAPHY & AUTOBIOGRAPHY"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 128,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hi17DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hi17DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=hi17DwAAQBAJ&dq=isbn:9781524763138&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=hi17DwAAQBAJ&dq=isbn:9781524763138&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Becoming.html?hl=&id=hi17DwAAQBAJ"
+    },
+    {
+        "isbn": "9780062943842",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780062943842.jpg",
+        "title": "The Education of an Idealist",
+        "subtitle": "A Memoir",
+        "authors": [
+            "Samantha Power"
+        ],
+        "publisher": "HarperLuxe",
+        "publishedDate": "2019-09-10",
+        "description": "An intimate and powerful memoir by Pulitzer Prize–winner and former U.N. Ambassador Samantha Power.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0062943847"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062943842"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FPj8wQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FPj8wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=FPj8wQEACAAJ&dq=isbn:9780062943842&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=FPj8wQEACAAJ&dq=isbn:9780062943842&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Education_of_an_Idealist.html?hl=&id=FPj8wQEACAAJ"
+    },
+    {
+        "isbn": "9780525564638",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780525564638.jpg",
+        "title": "Sandworm",
+        "subtitle": "A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
+        "authors": [
+            "Andy Greenberg"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2020-10-20",
+        "description": "Originally published in hardcover in 2019 by Doubleday.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780525564638"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0525564632"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "SOCIAL SCIENCE"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NgIHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NgIHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=NgIHEAAAQBAJ&dq=isbn:9780525564638&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=NgIHEAAAQBAJ&dq=isbn:9780525564638&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sandworm.html?hl=&id=NgIHEAAAQBAJ"
+    },
+    {
+        "isbn": "9780770436193",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780770436193.jpg",
+        "title": "Countdown to Zero Day",
+        "subtitle": "Stuxnet and the Launch of the World's First Digital Weapon",
+        "authors": [
+            "Kim Zetter"
+        ],
+        "publisher": "Broadway Books",
+        "publishedDate": "2014",
+        "description": "Top cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran's nuclear efforts and shows how its existence has ushered in a new age of warfare--one in which a digital attack can have the same destructive capability as a megaton bomb. In January 2010, inspectors with the International Atomic Energy Agency noticed that centrifuges at an Iranian uranium enrichment plant were failing at an unprecedented rate. The cause was a complete mystery--apparently as much to the technicians replacing the centrifuges as to the inspectors observing them. Then, five months later, a seemingly unrelated event occurred: A computer security firm in Belarus was called in to troubleshoot some computers in Iran that were crashing and rebooting repeatedly. At first, the firm's programmers believed the malicious code on the machines was a simple, routine piece of malware. But as they and other experts around the world investigated, they discovered a mysterious virus of unparalleled complexity. They had, they soon learned, stumbled upon the world's first digital weapon. For Stuxnet, as it came to be known, was unlike any other virus or worm built before: Rather than simply hijacking targeted computers or stealing information from them, it escaped the digital realm to wreak actual, physical destruction on a nuclear facility. In these pages, Wired journalist Kim Zetter draws on her extensive sources and expertise to tell the story behind Stuxnet's planning, execution, and discovery, covering its genesis in the corridors of Bush's White House and its unleashing on systems in Iran--and telling the spectacular, unlikely tale of the security geeks who managed to unravel a sabotage campaign years in the making. But Countdown to Zero Day ranges far beyond Stuxnet itself. Here, Zetter shows us how digital warfare developed in the US. She takes us inside today's flourishing zero-day \"grey markets,\" in which intelligence agencies and militaries pay huge sums for the malicious code they need to carry out infiltrations and attacks. She reveals just how vulnerable many of our own critical systems are to Stuxnet-like strikes, from nation-state adversaries and anonymous hackers alike--and shows us just what might happen should our infrastructure be targeted by such an attack. Propelled by Zetter's unique knowledge and access, and filled with eye-opening explanations of the technologies involved, Countdown to Zero Day is a comprehensive and prescient portrait of a world at the edge of a new kind of war.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780770436193"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0770436196"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+            "COMPUTERS"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pCfZCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pCfZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=pCfZCwAAQBAJ&dq=isbn:9780770436193&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=pCfZCwAAQBAJ&dq=isbn:9780770436193&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Countdown_to_Zero_Day.html?hl=&id=pCfZCwAAQBAJ"
+    },
+    {
+        "isbn": "9781408870556",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781408870556.jpg",
+        "title": "Why I’m No Longer Talking to White People About Race",
+        "authors": [
+            "Reni Eddo-Lodge"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2017-11-07",
+        "description": "\"This is a book that was begging to be written . . . Essential.\" --Marlon James",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781408870556"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "140887055X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+            "Political Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=macyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=macyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=macyEAAAQBAJ&dq=isbn:9781408870556&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=macyEAAAQBAJ&dq=isbn:9781408870556&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_I_m_No_Longer_Talking_to_White_Peopl.html?hl=&id=macyEAAAQBAJ"
+    },
+    {
+        "isbn": "9781785763656",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781785763656.jpg",
+        "title": "The Tattooist of Auschwitz",
+        "authors": [
+            "Heather Morris"
+        ],
+        "publisher": "Zaffre",
+        "publishedDate": "2018-01-11",
+        "description": "The Tattooist of Auschwitz is based on the true story of Lale and Gita Sokolov, two Slovakian Jews, who survived Auschwitz and eventually made their home in Australia. In that terrible place, Lale was given the job of tattooing the prisoners marked for survival - literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught he would have been killed; many owed him their survival.There have been many books about the Holocaust - and there will be many more. What makes this one so memorable is Lale Sokolov's incredible zest for life. He understood exactly what was in store for him and his fellow prisoners and he was determined to survive - not just to survive, but to leave the camp with his dignity and integrity intact, to live his life to the full. Terrible though this story is, it is also a story of hope and of courage. It is also - almost unbelievably - a love story. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight and he determined not only to survive himself, but to ensure that Gita did, too. His story - their story - will make you weep, but you will also find it uplifting. It shows the very best of humanity in the very worst of circumstances.Like many survivors, Lale and Gita told few people their story after the war. They eventually made their way to Australia, where they raised a son and had a successful life. But when Gita died, Lale felt he could no longer carry the burden of their past alone. He chose to tell his story.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1785763652"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785763656"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=RBr4swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=RBr4swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=RBr4swEACAAJ&dq=isbn:9781785763656&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=RBr4swEACAAJ&dq=isbn:9781785763656&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tattooist_of_Auschwitz.html?hl=&id=RBr4swEACAAJ"
+    },
+    {
+        "isbn": "9781984879226",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781984879226.jpg",
+        "title": "Tools and Weapons",
+        "subtitle": "The Promise and the Peril of the Digital Age",
+        "authors": [
+            "Brad Smith"
+        ],
+        "publisher": "Penguin Press",
+        "publishedDate": "2019-09-10",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1984879227"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781984879226"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cq68xQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cq68xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=cq68xQEACAAJ&dq=isbn:9781984879226&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=cq68xQEACAAJ&dq=isbn:9781984879226&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tools_and_Weapons.html?hl=&id=cq68xQEACAAJ"
+    },
+    {
+        "isbn": "9780804139298",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780804139298.jpg",
+        "title": "Zero to One",
+        "subtitle": "Notes on Startups, Or how to Build the Future",
+        "authors": [
+            "Peter A. Thiel",
+            "Blake Masters"
+        ],
+        "publisher": "Currency",
+        "publishedDate": "2014",
+        "description": "The billionaire Silicon Valley entrepreneur behind such companies as PayPal and Facebook outlines an innovative theory and formula for building the companies of the future by creating and monopolizing new markets instead of competing in old ones. 200,000 first printing.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780804139298"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0804139296"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2790,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=POOJDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=POOJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=POOJDQAAQBAJ&dq=isbn:9780804139298&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=POOJDQAAQBAJ&dq=isbn:9780804139298&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Zero_to_One.html?hl=&id=POOJDQAAQBAJ"
+    },
+    {
+        "isbn": "9780399591013",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780399591013.jpg",
+        "title": "Reset",
+        "subtitle": "My Fight for Inclusion and Lasting Change",
+        "authors": [
+            "Ellen K. Pao"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2017",
+        "description": "The co-founder of the diversity nonprofit Project Include shares the story behind her landmark 2015 lawsuit against powerhouse venture capitalist firm Kleiner Perkins, exploring what her case and refusal to settle revealed about Silicon Valley discrimination.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780399591013"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "039959101X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+            "Businesswomen"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gJ82DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gJ82DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=gJ82DwAAQBAJ&dq=isbn:9780399591013&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=gJ82DwAAQBAJ&dq=isbn:9780399591013&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reset.html?hl=&id=gJ82DwAAQBAJ"
+    },
+    {
+        "isbn": "9781432871222",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781432871222.jpg",
+        "title": "Three Women",
+        "authors": [
+            "Lisa Taddeo"
+        ],
+        "publisher": "Thorndike Press Large Print",
+        "publishedDate": "2019",
+        "description": "A #1 New York Times BestsellerAn Indie Next PickIt thrills us and torments us. It controls our thoughts, destroys our lives, and it's all we live for. Yet we almost never speak of it. And as a buried force in our lives, desire remains largely unexplored -- until now. Over the past eight years, journalist Lisa Taddeo has driven across the country six times to embed herself with ordinary women from different regions and backgrounds. Three Women is a portrait of erotic longing in today's America, exposing the fragility, complexity, and inequality of female desire with unprecedented depth and emotional power. It introduces us to three unforgettable women whose experiences remind us that we are not alone.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1432871226"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781432871222"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 21,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=P2NVyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=P2NVyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=P2NVyAEACAAJ&dq=isbn:9781432871222&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=P2NVyAEACAAJ&dq=isbn:9781432871222&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Women.html?hl=&id=P2NVyAEACAAJ"
+    },
+    {
+        "isbn": "9781472274540",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781472274540.jpg",
+        "title": "Chemical Warrior",
+        "subtitle": "Saving Lives on the Frontline of Modern Warfare",
+        "authors": [
+            "Hamish de Bretton-Gordon"
+        ],
+        "publishedDate": "2020",
+        "description": "For thirty years, Hamish has served and volunteered in conflict zones around the world. As the army's foremost chemical weapons expert, he built a unique first-hand understanding of how to prevent attacks and train doctors on the frontline saving countless lives in the process. After suffering near-death experiences time and again, Hamish discovered he had a ticking time bomb in his own chest: a heart condition called Sudden Death Syndrome that could kill him at any time. But with a new awareness for the fragility of life, he fought harder to make his count. Despite facing extraordinary personal danger, Hamish has unearthed evidence of multiple chemical attacks in Syria and continues to advise the government at the highest level, including after the 2018 Novichok poisoning in Salisbury. Lifting the lid on Hamish's unique world of battlefield expertise and humanitarian work, Chemical Warrior is a thrilling story of bravery and compassion.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1472274547"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781472274540"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Biological warfare"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=sMZSzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sMZSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=sMZSzQEACAAJ&dq=isbn:9781472274540&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=sMZSzQEACAAJ&dq=isbn:9781472274540&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chemical_Warrior.html?hl=&id=sMZSzQEACAAJ"
+    },
+    {
+        "isbn": "9781419736773",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9781419736773.jpg",
+        "title": "Self-Care for the Real World",
+        "authors": [
+            "Nadia Narain",
+            "Katia Narain Phillips"
+        ],
+        "publisher": "Abrams Image",
+        "publishedDate": "2018-09-18",
+        "description": "Wellness pioneers Nadia Narain and Katia Narain Phillips have spent years helping others to feel their best, but it took them a bit longer to understand how to look after themselves. Here they share the small achievable steps they have learned, and how you can apply them to your own life, wherever you are. Self-Care for the Real World is a combination of friendly advice, personal stories, exercises, and recipes. The book is a practical guide to self-care for real people with busy lives. The authors are sharp and funny, and they acknowledge that there is no one way to practice self-care. They're not here to give strict instructions or preach drastic life changes, but to offer small suggestions to help you toward becoming the best version of yourself.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1419736779"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781419736773"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZR8tuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZR8tuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=ZR8tuAEACAAJ&dq=isbn:9781419736773&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=ZR8tuAEACAAJ&dq=isbn:9781419736773&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Self_Care_for_the_Real_World.html?hl=&id=ZR8tuAEACAAJ"
+    },
+    {
+        "isbn": "9780765382030",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780765382030.jpg",
+        "title": "The Three-Body Problem",
+        "authors": [
+            "Cixin Liu"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2016-01-12",
+        "description": "\"Wildly imaginative, really interesting.\" —President Barack Obama on The Three-Body Problem trilogy The Three-Body Problem is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most beloved science fiction author, Liu Cixin. Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision. The Remembrance of Earth's Past Trilogy The Three-Body Problem The Dark Forest Death's End Other Books Ball Lightning (forthcoming)",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0765382032"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780765382030"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 123,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TiZHrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TiZHrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=TiZHrgEACAAJ&dq=isbn:9780765382030&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=TiZHrgEACAAJ&dq=isbn:9780765382030&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Three_Body_Problem.html?hl=&id=TiZHrgEACAAJ"
+    },
+    {
+        "isbn": "9780765386694",
+        "dateRead": "2020-02-01",
+        "imageLink": "/books/images/9780765386694.jpg",
+        "title": "The Dark Forest",
+        "authors": [
+            "Cixin Liu"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2016-08-16",
+        "description": "This near-future trilogy is the first chance for English-speaking readers to experience this multiple-award-winning phenomenon from Cixin Liu, China's most beloved science fiction author. In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion-in just four centuries' time. The aliens' human collaborators may have been defeated, but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are totally exposed to the enemy. Only the human mind remains a secret. This is the motivation for the Wallfacer Project, a daring plan that grants four men enormous resources to design secret strategies, hidden through deceit and misdirection from Earth and Trisolaris alike. Three of the Wallfacers are influential statesmen and scientists, but the fourth is a total unknown. Luo Ji, an unambitious Chinese astronomer and sociologist, is baffled by his new status. All he knows is that he's the one Wallfacer that Trisolaris wants dead. The Remembrance of Earth's Past Trilogy The Three-Body Problem The Dark Forest Death's End Other Books Ball Lightning (forthcoming)",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0765386690"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780765386694"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 26,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dB0CswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dB0CswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=dB0CswEACAAJ&dq=isbn:9780765386694&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=dB0CswEACAAJ&dq=isbn:9780765386694&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dark_Forest.html?hl=&id=dB0CswEACAAJ"
+    },
+    {
+        "isbn": "9781250257727",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9781250257727.jpg",
+        "title": "The Moment of Lift",
+        "subtitle": "How Empowering Women Changes the World",
+        "authors": [
+            "Melinda Gates"
+        ],
+        "publisher": "Flatiron Books",
+        "publishedDate": "2021-01-12",
+        "description": "NEW YORK TIMES BESTSELLER How can we summon a moment of lift for human beings—and especially for women? Because when you lift up women, you lift up humanity. For the last twenty years, Melinda Gates has been on a mission to find solutions for people with the most urgent needs, wherever they live. Throughout this journey, one thing has become increasingly clear to her: If you want to lift society up, you need to stop keeping women down. In this moving and compelling book, Melinda shares lessons she’s learned from the inspiring people she’s met during her work and travels around the world. As she writes in the introduction, “That is why I had to write this book—to share the stories of people who have given focus and urgency to my life. I want all of us to see ways we can lift women up where we live.” Melinda’s unforgettable narrative is backed by startling data as she presents the issues that most need our attention—from child marriage to lack of access to contraceptives to gender inequity in the workplace. And, for the first time, she writes about her personal life and the road to equality in her own marriage. Throughout, she shows how there has never been more opportunity to change the world—and ourselves. Writing with emotion, candor, and grace, she introduces us to remarkable women and shows the power of connecting with one another. When we lift others up, they lift us up, too.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1250257727"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781250257727"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wZV2xAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wZV2xAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=wZV2xAEACAAJ&dq=isbn:9781250257727&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=wZV2xAEACAAJ&dq=isbn:9781250257727&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moment_of_Lift.html?hl=&id=wZV2xAEACAAJ"
+    },
+    {
+        "isbn": "9780062941206",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9780062941206.jpg",
+        "title": "Get a Life, Chloe Brown",
+        "subtitle": "A Novel",
+        "authors": [
+            "Talia Hibbert"
+        ],
+        "publisher": "Avon",
+        "publishedDate": "2019-11-05",
+        "description": "Talia Hibbert, one of contemporary romance’s brightest new stars, delivers a witty, hilarious romantic comedy about a woman who’s tired of being “boring” and recruits her mysterious, sexy neighbor to help her get a life—perfect for fans of Sally Thorne, Jasmine Guillory, and Helen Hoang. Chloe Brown is a chronically ill computer geek with a goal, a plan, and a list. After almost—but not quite—dying, she’s determined to spice up her life and finally fit in with her glamorous family. Her “Get a Life” list has six directives, and she’s already completed the first: finally moving out of her family’s mansion. The next items? Enjoy a drunken night out. Ride a motorcycle. Go camping. Have meaningless but thoroughly enjoyable sex. Travel the world with nothing but hand luggage. And... do something bad. But it’s not easy being bad, even when you’ve written step-by-step guidelines on how to do it correctly. What Chloe needs is a teacher, and she knows just the man for the job. Redford ‘Red’ Morgan is a handyman with tattoos, a motorcycle, and more sex appeal than ten-thousand Hollywood heartthrobs. He’s also an artist who paints at night and hides his work in the light of day, which Chloe knows because she spies on him occasionally. Just the teeniest, tiniest bit. But when she enlists Red in her mission to rebel, she learns things about him that no spy session could teach her. Like why he clearly resents Chloe’s wealthy background. And why he never shows his art to anyone. And what really lies beneath his rough exterior…",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0062941208"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062941206"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 33,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=T9nrwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=T9nrwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=T9nrwQEACAAJ&dq=isbn:9780062941206&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=T9nrwQEACAAJ&dq=isbn:9780062941206&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Get_a_Life_Chloe_Brown.html?hl=&id=T9nrwQEACAAJ"
+    },
+    {
+        "isbn": "9781400220809",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9781400220809.jpg",
+        "title": "Girl, Wash Your Face",
+        "subtitle": "Stop Believing the Lies about Who You Are So You Can Become Who You Were Meant to Be",
+        "authors": [
+            "Rachel Hollis"
+        ],
+        "publishedDate": "2019-10",
+        "description": "#1 NEW YORK TIMES BESTSELLER Do you ever suspect that everyone else has life figured out and you don't have a clue If so, Rachel Hollis has something to tell you: that's a lie. As the founder of the lifestyle website TheChicSite.com and CEO of her own media company, Rachel Hollis developed an immense online community by sharing tips for better living while fearlessly revealing the messiness of her own life. Now, in this challenging and inspiring new book, Rachel exposes the twenty lies and misconceptions that too often hold us back from living joyfully and productively, lies we've told ourselves so often we don't even hear them anymore. With painful honesty and fearless humor, Rachel unpacks and examines the falsehoods that once left her feeling overwhelmed and unworthy, and reveals the specific practical strategies that helped her move past them. In the process, she encourages, entertains, and even kicks a little butt, all to convince you to do whatever it takes to get real and become the joyous, confident woman you were meant to be. With unflinching faith and rock-hard tenacity, Girl, Wash Your Face shows you how to live with passion and hustle-and how to give yourself grace without giving up.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1400220807"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781400220809"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+            "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=r0g5yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=r0g5yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=r0g5yQEACAAJ&dq=isbn:9781400220809&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=r0g5yQEACAAJ&dq=isbn:9781400220809&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Girl_Wash_Your_Face.html?hl=&id=r0g5yQEACAAJ"
+    },
+    {
+        "isbn": "9781509848621",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9781509848621.jpg",
+        "title": "The Nightingale",
+        "authors": [
+            "Kristin Hannah"
+        ],
+        "publisher": "Pan",
+        "publishedDate": "2017-10-05",
+        "description": "The New York Times number one bestselling titleBravery, courage, fear and love in a time of war. Despite their differences, sisters Viann and Isabelle have always been close. Younger, bolder Isabelle lives in Paris while Viann is content with life in the French countryside with her husband Antoine and their daughter. But when the Second World War strikes, Antoine is sent off to fight and Viann finds herself isolated so Isabelle is sent by their father to help her. As the war progresses, the sisters' relationship and strength is tested. With life changing in unbelievably horrific ways, Viann and Isabelle will find themselves facing frightening situations and responding in ways they never thought possible as bravery and resistance take different forms in each of their actions.Vivid and exquisite in its illumination of a time and place that was filled with atrocities, but also humanity and strength, Kristin Hannah's The Nightingale will provoke thought and discussion that will have readers talking long after they finish reading.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1509848622"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781509848621"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3534,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=f6PxwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=f6PxwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=f6PxwgEACAAJ&dq=isbn:9781509848621&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=f6PxwgEACAAJ&dq=isbn:9781509848621&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Nightingale.html?hl=&id=f6PxwgEACAAJ"
+    },
+    {
+        "isbn": "9780762447695",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9780762447695.jpg",
+        "title": "You Are a Badass",
+        "subtitle": "How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "authors": [
+            "Jen Sincero"
+        ],
+        "publisher": "Running Press Adult",
+        "publishedDate": "2013-04-23",
+        "description": "Offers a blunt and irreverent guide to achieving the money, relationships, career, and happiness that one desires through recognizing and doing away with self-sabotaging beliefs and behaviors.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780762447695"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0762447699"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1245,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nbEfAQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nbEfAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=nbEfAQAAQBAJ&dq=isbn:9780762447695&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=nbEfAQAAQBAJ&dq=isbn:9780762447695&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/You_Are_a_Badass.html?hl=&id=nbEfAQAAQBAJ"
+    },
+    {
+        "isbn": "9780062820334",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9780062820334.jpg",
+        "title": "The Little Book of Lykke",
+        "subtitle": "Secrets of the World’s Happiest People",
+        "authors": [
+            "Meik Wiking"
+        ],
+        "publisher": "William Morrow",
+        "publishedDate": "2017-12-26",
+        "description": "Join the happiness revolution! The author of the New York Times bestseller The Little Book of Hygge offers more inspiration and suggestions for achieving greater happiness, by practicing Lykke (LOO-ka)—pursuing and finding the good that exists in the world around us every day. While the Danes are the happiest people on the planet, happiness isn’t exclusively Danish; cultures around the world have their own unique approaches to leading a contented, fulfilled life. For his work at the Happiness Research Institute in Copenhagen, Meik Wiking travels the globe from Dubai to Finland, Rio de Janeiro to Bhutan, South Korea to the United States, to discover the secrets of the very happiest people. In The Little Book of Lykke, Meik identifies the six factors that explain the majority of differences in happiness across the world—togetherness, money, health, freedom, trust, and kindness—and explores what actions we can take to become happier. As he reveals, we can deepen our blissfulness and contentment with little adjustments in our behavior, whether it’s eating like the French (sitting around a table and savoring our time) or dancing the tango like Argentinians in Buenos Aires. With his trademark warmth and wit, Meik explores the happiness gap for parents, how much money you really need to buy happiness, how we can be healthier without having to go to the gym, how we can learn to build trust and collaboration, how we can help ourselves by helping others, and why our expectations often outweigh our reality. Weaving together original research and personal anecdotes, The Little Book of Lykke is a global roadmap for joy that offers a new approach to achieving everyday happiness that not only improve our own lives, but help us build better communities and a better world.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0062820338"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062820334"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=f6MEtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=f6MEtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=f6MEtAEACAAJ&dq=isbn:9780062820334&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=f6MEtAEACAAJ&dq=isbn:9780062820334&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Little_Book_of_Lykke.html?hl=&id=f6MEtAEACAAJ"
+    },
+    {
+        "isbn": "9781785036491",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9781785036491.jpg",
+        "title": "Gone Viking",
+        "authors": [
+            "Helen Russell"
+        ],
+        "publisher": "Ebury Press",
+        "publishedDate": "2018-04-19",
+        "description": "Be bold. Be brave. Be Viking...Forget hygge, this autumn you need to go Viking. An uplifting, laugh out loud debut novel to curl up with from the bestselling author of THE YEAR OF LIVING DANISHLY.Frazzled mum Alice Ray likes to think she?s on top everything - she has FOUR bags-for-life in the boot of her car for heaven's sake. But after spectacularly embarrassing herself at work, she finally gives in to her sister?s pleas to take a much needed break.But this is not the luxury spa holiday Alice hoped for - instead, she finds herself in Denmark, in the middle of nowhere, on a 'How to be a Viking? getaway. Can the two sisters finally learn to get along or will learning to embrace their inner warrior just make them better at fighting?Two sisters. One Scandi holiday they'll never forget...GONE VIKING is a laugh out loud debut novel perfect for fans of Sophie Kinsella's Surprise Me",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1785036491"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785036491"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+            "Denmark"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WlL6wAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WlL6wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=WlL6wAEACAAJ&dq=isbn:9781785036491&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=WlL6wAEACAAJ&dq=isbn:9781785036491&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gone_Viking.html?hl=&id=WlL6wAEACAAJ"
+    },
+    {
+        "isbn": "9781784754792",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9781784754792.jpg",
+        "title": "Ready Player One",
+        "authors": [
+            "Ernest Cline"
+        ],
+        "publisher": "Arrow",
+        "publishedDate": "2018-01-30",
+        "description": "NOW A MAJOR MOTION PICTURE DIRECTED BY STEVEN SPIELBERG **A world at stake. A quest for the ultimate prize. Are you ready?** In the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he's jacked into the OASIS, a vast virtual world where most of humanity spends their days. When the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune - and control of the OASIS itself. Then Wade cracks the first clue. Suddenly he's beset by rivals who'll kill to take this prize. The race is on - and the only way to survive is to win. 'Wildly original and stuffed with irresistible nostalgia, Ready Player One is a spectacularly genre-busting, ambitious, and charming debut' Independent 'Part intergalactic scavenger hunt, part romance, and all heart' CNN 'Ernest Cline's novel deserves to be a modern classic' SciFiNow 'Gorgeously geeky, superbly entertaining, this really is a spectacularly successful debut' Daily Mail",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "178475479X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781784754792"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+            "Action and adventure fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3193,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=GmMbtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=GmMbtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=GmMbtAEACAAJ&dq=isbn:9781784754792&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=GmMbtAEACAAJ&dq=isbn:9781784754792&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ready_Player_One.html?hl=&id=GmMbtAEACAAJ"
+    },
+    {
+        "isbn": "9780062457714",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9780062457714.jpg",
+        "title": "The Subtle Art of Not Giving a F**k",
+        "subtitle": "A Counterintuitive Approach to Living a Good Life",
+        "authors": [
+            "Mark Manson"
+        ],
+        "publisher": "HarperOne",
+        "publishedDate": "2016-09-13",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0062457713"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062457714"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 39,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=RobZjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=RobZjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=RobZjgEACAAJ&dq=isbn:9780062457714&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=RobZjgEACAAJ&dq=isbn:9780062457714&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_k.html?hl=&id=RobZjgEACAAJ"
+    },
+    {
+        "isbn": "9781492040767",
+        "dateRead": "2019-02-01",
+        "imageLink": "/books/images/9781492040767.jpg",
+        "title": "Cloud Native DevOps with Kubernetes",
+        "subtitle": "Building, Deploying, and Scaling Modern Applications in the Cloud",
+        "authors": [
+            "John Arundel",
+            "Justin Domingus"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2019-03-21",
+        "description": "Kubernetes is the operating system of the cloud-native world, providing a reliable and scalable platform for running containerized workloads. This book shows developers and operations staff how to apply industry-standard DevOps practices to Kubernetes in a cloud-native context. You'll learn all about the Kubernetes ecosystem and discover battle-tested solutions to everyday problems. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do--and what you can do with it. You'll build, step by step, an example cloud-native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications. Understand containers and Kubernetes from first principles--no experience necessary Run your own clusters or choose a managed Kubernetes service from Amazon, Google, and others Design your own cloud-native services and infrastructure Use Kubernetes to manage resource usage and the container lifecycle Optimize clusters for cost, performance, resilience, capacity, and scalability Learn the best tools for developing, testing, and deploying your applications Apply the latest industry practices for observability and monitoring Secure your containers and clusters in production Adopt DevOps principles to help make your development teams lean, fast, and effective",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1492040762"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781492040767"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xZXfuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xZXfuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=xZXfuQEACAAJ&dq=isbn:9781492040767&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=xZXfuQEACAAJ&dq=isbn:9781492040767&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cloud_Native_DevOps_with_Kubernetes.html?hl=&id=xZXfuQEACAAJ"
+    },
+    {
+        "isbn": "9781501135927",
+        "dateRead": "2018-02-01",
+        "imageLink": "/books/images/9781501135927.jpg",
+        "title": "Shoe Dog",
+        "subtitle": "A Memoir by the Creator of Nike",
+        "authors": [
+            "Phil Knight"
+        ],
+        "publisher": "Scribner",
+        "publishedDate": "2018-05-01",
+        "description": "In this instant and tenacious New York Times bestseller, Nike founder and board chairman Phil Knight “offers a rare and revealing look at the notoriously media-shy man behind the swoosh” (Booklist, starred review), illuminating his company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands. Bill Gates named Shoe Dog one of his five favorite books of 2016 and called it “an amazing tale, a refreshingly honest reminder of what the path to business success really looks like. It’s a messy, perilous, and chaotic journey, riddled with mistakes, endless struggles, and sacrifice. Phil Knight opens up in ways few CEOs are willing to do.” Fresh out of business school, Phil Knight borrowed fifty dollars from his father and launched a company with one simple mission: import high-quality, low-cost running shoes from Japan. Selling the shoes from the trunk of his car in 1963, Knight grossed eight thousand dollars that first year. Today, Nike’s annual sales top $30 billion. In this age of start-ups, Knight’s Nike is the gold standard, and its swoosh is one of the few icons instantly recognized in every corner of the world. But Knight, the man behind the swoosh, has always been a mystery. In Shoe Dog, he tells his story at last. At twenty-four, Knight decides that rather than work for a big corporation, he will create something all his own, new, dynamic, different. He details the many risks he encountered, the crushing setbacks, the ruthless competitors and hostile bankers—as well as his many thrilling triumphs. Above all, he recalls the relationships that formed the heart and soul of Nike, with his former track coach, the irascible and charismatic Bill Bowerman, and with his first employees, a ragtag group of misfits and savants who quickly became a band of swoosh-crazed brothers. Together, harnessing the electrifying power of a bold vision and a shared belief in the transformative power of sports, they created a brand—and a culture—that changed everything.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1501135929"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781501135927"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 385,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lk76yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lk76yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=lk76yQEACAAJ&dq=isbn:9781501135927&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=lk76yQEACAAJ&dq=isbn:9781501135927&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shoe_Dog.html?hl=&id=lk76yQEACAAJ"
+    },
+    {
+        "isbn": "9783548375496",
+        "dateRead": "2018-02-01",
+        "imageLink": "/books/images/9783548375496.jpg",
+        "title": "Lean In",
+        "subtitle": "Frauen und der Wille zum Erfolg",
+        "authors": [
+            "Sheryl Sandberg"
+        ],
+        "publisher": "Ullstein",
+        "publishedDate": "2015-02-06",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "3548375499"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9783548375496"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6ryhngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6ryhngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.ie/books?id=6ryhngEACAAJ&dq=isbn:9783548375496&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=6ryhngEACAAJ&dq=isbn:9783548375496&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lean_In.html?hl=&id=6ryhngEACAAJ"
+    },
+    {
+        "isbn": "9781444121414",
+        "dateRead": "2018-02-01",
+        "imageLink": "/books/images/9781444121414.jpg",
+        "title": "Animal Farm",
+        "authors": [
+            "Najoud Ensaff",
+            "George Orwell"
+        ],
+        "publisher": "Philip Allan",
+        "publishedDate": "2011",
+        "description": "For study or revision, these guides are the perfect accompaniment to the set text, providing invaluable background and exam advice. Philip Allan Literature Guides (for GCSE) offer succinct and accessible coverage of all key aspects of the set text and are designed to challenge and develop your knowledge, encouraging you to reach your full potential. Each full colour guide: - Gives you the confidence that you know your set text inside out, with insightful coverage for you to develop your understanding of context, characters, quotations, themes and style - Ensures you are fully prepared for your exams: each guide shows you how your set text will be measured against assessment objectives of the main specification - Develops the skills you need to do well in your exams, with tasks and practice questions in the guide, and lots more completely free online, including podcasts, glossaries, sample essays and revision advice at www.philipallan.co.uk/literatureguidesonline",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1444121413"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781444121414"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+            "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ab1wbwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ab1wbwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=ab1wbwAACAAJ&dq=isbn:9781444121414&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=ab1wbwAACAAJ&dq=isbn:9781444121414&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animal_Farm.html?hl=&id=ab1wbwAACAAJ"
+    },
+    {
+        "isbn": "9781432839673",
+        "dateRead": "2018-02-01",
+        "imageLink": "/books/images/9781432839673.jpg",
+        "title": "The Little Book of Hygge",
+        "subtitle": "Danish Secrets to Happy Living",
+        "authors": [
+            "Meik Wiking"
+        ],
+        "publishedDate": "2017",
+        "description": "New York Times Bestseller Embrace Hygge (pronounced hoo-ga) and become happier with this definitive guide to the Danish philosophy of comfort, togetherness, and well-being. Why are Danes the happiest people in the world? The answer, says Meik Wiking, CEO of the Happiness Research Institute in Copenhagen, is Hygge. Loosely translated, Hygge--pronounced Hoo-ga--is a sense of comfort, togetherness, and well-being. -Hygge is about an atmosphere and an experience, - Wiking explains. -It is about being with the people we love. A feeling of home. A feeling that we are safe.- Hygge is the sensation you get when you're cuddled up on a sofa, in cozy socks under a soft throw, during a storm. It's that feeling when you're sharing comfort food and easy conversation with loved ones at a candlelit table. It is the warmth of morning light shining just right on a crisp blue-sky day. The Little Book of Hygge introduces you to this cornerstone of Danish life, and offers advice and ideas on incorporating it into your own life, such as: Get comfy. Take a break. Be here now. Turn off the phones. Turn down the lights. Bring out the candles. Build relationships. Spend time with your tribe. Give yourself a break from the demands of healthy living. Cake is most definitely Hygge. Live life today, like there is no coffee tomorrow. From picking the right lighting to organizing a Hygge get-together to dressing hygge, Wiking shows you how to experience more joy and contentment the Danish way.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1432839675"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781432839673"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 331,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=B_DTAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=B_DTAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=B_DTAQAACAAJ&dq=isbn:9781432839673&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=B_DTAQAACAAJ&dq=isbn:9781432839673&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Little_Book_of_Hygge.html?hl=&id=B_DTAQAACAAJ"
+    },
+    {
+        "isbn": "9780008247652",
+        "dateRead": "2018-02-01",
+        "imageLink": "/books/images/9780008247652.jpg",
+        "title": "Hit Refresh",
+        "authors": [
+            "Satya Nadella"
+        ],
+        "publisher": "William Collins",
+        "publishedDate": "2017-09-18",
+        "description": "From the CEO of Microsoft, Satya Nadella, is an inspiring account of the transformation of an organisation and the coming transformation of humanity. As told by Microsoft CEO Satya Nadella, Hit Refresh is the story of corporate change and reinvention as well as the story of Nadella's personal journey, one that is taking place today inside a storied technology company, and one that is coming in all of our lives as intelligent machines become more ambient and more ubiquitous. It's about how people, organisations and societies can and must hit refresh - transform - in their persistent quest for new energy, new ideas, relevance and renewal. At the core, it's about us humans and our unique qualities, like empathy, which will become ever more valuable in a world where the torrent of technology will disrupt like never before. As much a humanist as a technologist, Nadella defines his mission and that of the company he leads as empowering every person and every organisation on the planet to achieve more.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "000824765X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780008247652"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aadLMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aadLMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=aadLMQAACAAJ&dq=isbn:9780008247652&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=aadLMQAACAAJ&dq=isbn:9780008247652&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hit_Refresh.html?hl=&id=aadLMQAACAAJ"
     }
 ]
