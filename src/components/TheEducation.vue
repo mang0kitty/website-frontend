@@ -59,7 +59,7 @@ export default {
   data: function() {
     return {
       trinity:
-        "My time at Trinity required me to develop skills in a broad array of disciplines from x86 ARM Assembly to Deep Learning. My programming roots began with C++ and C which would later be leveraged to complete my Computer Networks projects. I was focused on developing a strong understanding of the underlying systems and technologies upon which we build services, in addition to the patterns and practices used to build those services themselves.",
+        "This degree helped develop my understanding of the underlying systems and technologies upon which we build services, as well as the patterns and practices used to build those services themselves. My electives focused on Security and Privacy, Deep Learning, Data Visualization, Computer Networks, and Knowledge Engineering with the goal of allowing me to reason about complex systems from first principles and share that with others.",
       finalYearProject: {
         name: "Parallelized DNA Analysis on Kubernetes",
         content:
