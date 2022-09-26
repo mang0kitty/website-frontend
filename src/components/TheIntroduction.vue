@@ -6,9 +6,13 @@
     <div class="body">
       <div class="content">
         <p>
-          I’m an Irish computer engineering graduate with a passion for software development and the secure and reliable deployment of systems at scale. I have experience as a Software Engineering Intern at AWS and will be returning as a Graduate Security Engineer.
+          I’m a Security Software Engineer with a vision of employing resilient technology to improve the quality of life for people all over the world. <br />
           <br />
-          <br />When I’m not upskilling or trying to make a difference through code, you’ll find me reading books with a cup of tea, running miles, cooking, learning more about foreign policy and creating new connections.
+          For me, this means protecting individuals and organizations from security and environmental threats as well as the systemic structures ingrained within teams and society that hinder our progress,  by bridging the gap between software, security, and human rights.<br />
+          <br />
+          I’m interested in technology and leadership structures that advance progress in these spaces, through decentralization, machine intelligence, zero trust internet infrastructure, and technology that supports an industrial shift to clean energy. <br />
+          <br />
+          In my free time, I build and contribute to open-source projects and communities that advance <a href="https://github.com/Azure/aks-auditd">cybersecurity</a> and inefficient workflows in the <a href="https://github.com/mang0kitty/bwbble">biotech</a> and <a href="https://github.com/SierraSoftworks/git-tool">developer productivity</a> domain. 
         </p>
       </div>
       <div class="contact">

@@ -1,510 +1,1263 @@
 [
     {
-      "id": 1,
-      "title": "Becoming",
-      "author": [
-        "Michelle Obama"
-      ],
-      "date_read": 2020,
-      "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America—the first African American to serve in that role—she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare. \u003cbr /\u003e \u003cbr /\u003eIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.",
-      "photo": "/books/images/becoming.jpg",
-      "isbn": "9781524763138",
-      "tags": [
-        "autobiography",
-        "purpose"
-      ],
-      "rating": 4.54
+        "isbn": "9781784877934",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781784877934.jpg",
+        "title": "The Tusk That Did the Damage",
+        "authors": [
+            "Tania James"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2022-07-07",
+        "description": "'There he was, his trunk wrapped in hers. Whatever hurt or sorrow befell him was not really happening to him. He was on the other bank with his mother. He was not here' When a young elephant is brutally orphaned by poachers, he begins terrorising the countryside, earning his malevolent name, the Gravedigger, from the humans he kills and then tenderly buries with leaves. Manu, the studious son of a rice farmer, loses his cousin to the Gravedigger and is drawn into the alluring world of ivory hunting. Emma is working on a documentary set in a Kerala wildlife park with her best friend. Her work leads her to witness the porous boundary between conservation and corruption, until eventually she finds herself caught up in her own betrayal. 'One of the most unusual and affecting books... a compulsively readable, devastating novel' Jonathan Safran Foer VINTAGE EARTH is a collection of novels to transform our relationship with the natural world. Each one is a work of creative activism, a blast of fresh air, a seed from which change can grow. The books in this series reconnect us to the planet we inhabit - and must protect. Discover great writing on the most urgent story of our times.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "178487793X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781784877934"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rZmhzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rZmhzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=rZmhzgEACAAJ&dq=isbn:9781784877934&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=rZmhzgEACAAJ&dq=isbn:9781784877934&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tusk_That_Did_the_Damage.html?hl=&id=rZmhzgEACAAJ"
     },
     {
-      "id": 2,
-      "title": "The Education of an Idealist",
-      "author": [
-        "Samantha Power"
-      ],
-      "date_read": 2020,
-      "description": "Pulitzer Prize winner Samantha Power, widely known as a relentless advocate for promoting human rights, has been heralded by President Barack Obama as one of America's \"foremost thinkers on foreign policy.\"\u003cbr /\u003e\u003cbr /\u003eIn her memoir, Power offers an urgent response to the question \"What can one person do?\"—and a call for a clearer eye, a kinder heart, and a more open and civil hand in our politics and daily lives. \u003cem\u003eThe Education of an Idealist \u003c/em\u003etraces Power’s distinctly American journey from immigrant to war correspondent to presidential Cabinet official. In 2005, her critiques of US foreign policy caught the eye of newly elected senator Barack Obama, who invited her to work with him on Capitol Hill and then on his presidential campaign. After Obama was elected president, Power went from being an activist outsider to a government insider, navigating the halls of power while trying to put her ideals into practice. She served for four years as Obama’s human rights adviser, and in 2013, he named her US Ambassador to the United Nations, the youngest American to assume the role.\u003cbr /\u003e\u003cbr /\u003eA Pulitzer Prize–winning writer, Power transports us from her childhood in Dublin to the streets of war-torn Bosnia to the White House Situation Room and the world of high-stakes diplomacy. \u003cem\u003eThe Education of an\u003c/em\u003e \u003cem\u003eIdealist \u003c/em\u003elays bare the battles and defining moments of her life and shows how she juggled the demands of a 24/7 national security job with the challenge of raising two young children. Along the way, she illuminates the intricacies of politics and geopolitics, reminding us how the United States can lead in the world, and why we each have the opportunity to advance the cause of human dignity.",
-      "photo": "/books/images/theEducationOfAnIdealist.jpeg",
-      "isbn": "9780062943842",
-      "tags": [
-        "autobiography",
-        "human rights",
-        "foreign policy"
-      ],
-      "rating": 4.36
+        "isbn": "9781784877873",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781784877873.jpg",
+        "title": "Solar",
+        "authors": [
+            "Ian McEwan"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2022-07-07",
+        "description": "'Beard sank into a gloom of inattention, not because the planet was in peril - that moronic word again - but because someone was telling him it was with such enthusiasm' Michael Beard is a Nobel prize-winning physicist whose best work is behind him. He now spends his days speaking for enormous fees and half-heartedly heading a government-backed initiative tackling global warming. A compulsive womaniser, Beard finds his fifth marriage floundering. But this time, she's having the affair. When Beard's professional and personal worlds collide in a freak accident, an opportunity arises for Beard to simultaneously save his marriage and the world from environmental disaster. 'Savagely funny... Enormously entertaining' Sunday Times 'A satirical masterpiece...it will come to be regarded as a classic' Daily Telegraph 'A stunningly accomplished work, possibly his best yet' Financial Times VINTAGE EARTH is a collection of novels to transform our relationship with the natural world. Each one is a work of creative activism, a blast of fresh air, a seed from which change can grow. The books in this series reconnect us to the planet we inhabit - and must protect. Discover great writing on the most urgent story of our times.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1784877875"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781784877873"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 83,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=r82ezgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=r82ezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=r82ezgEACAAJ&dq=isbn:9781784877873&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=r82ezgEACAAJ&dq=isbn:9781784877873&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Solar.html?hl=&id=r82ezgEACAAJ"
     },
     {
-      "id": 3,
-      "title": "Sandworm",
-      "author": [
-        "Andy Greenberg"
-      ],
-      "date_read": 2020,
-      "description": "\u003cb\u003e\u003cb\u003eFrom \u003ci\u003eWired \u003c/i\u003esenior writer Andy Greenberg comes the true story of the most devastating cyberattack in history and the desperate hunt to identify and track the elite Russian agents behind it.\u003c/b\u003e \u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\"Much more than a true-life techno-thriller ... a tour through a realm that is both invisible and critical to the daily lives of every person alive in the 21st century.\"\u003ci\u003e\n  \u003cbr /\u003e\n\u003c/i\u003e--\u003ci\u003eLos Angeles Times\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eIn 2014, the world witnessed the start of a mysterious series of cyberattacks. Targeting American utility companies, NATO, and electric grids in Eastern Europe, the strikes grew ever more brazen. They culminated in the summer of 2017, when the malware known as NotPetya was unleashed, penetrating, disrupting, and paralyzing some of the world's largest businesses--from drug manufacturers to software developers to shipping companies. At the attack's epicenter in Ukraine, ATMs froze. The railway and postal systems shut down. Hospitals went dark. NotPetya spread around the world, inflicting an unprecedented ten billion dollars in damage--the largest, most destructive cyberattack the world had ever seen.\u003cbr /\u003e\u003cbr /\u003eThe hackers behind these attacks are quickly gaining a reputation as the most dangerous team of cyberwarriors in history: a group known as Sandworm. Working in the service of Russia's military intelligence agency, they represent a persistent, highly skilled force, one whose talents are matched by their willingness to launch broad, unrestrained attacks on the most critical infrastructure of their adversaries. They target government and private sector, military and civilians alike.\u003cbr /\u003e\u003cbr /\u003eA chilling, globe-spanning detective story, \u003ci\u003eSandworm\u003c/i\u003e considers the danger this force poses to our national security and stability. As the Kremlin's role in foreign government manipulation comes into greater focus, \u003ci\u003eSandworm\u003c/i\u003e exposes the realities not just of Russia's global digital offensive, but of an era where warfare ceases to be waged on the battlefield. It reveals how the lines between digital and physical conflict, between wartime and peacetime, have begun to blur--with world-shaking implications.",
-      "photo": "/books/images/sandworm.jpg",
-      "isbn": "9780525564638",
-      "tags": [
-        "cybersecurity",
-        "foreign policy"
-      ],
-      "rating": 4.38
+        "isbn": "9781784878030",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781784878030.jpg",
+        "title": "The Wall",
+        "authors": [
+            "Marlen Haushofer"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2022-07-07",
+        "description": "'The air trembled, gold and green and clear, at the edges of the forest' A woman goes to the Austrian mountains to spend a few days in a hunting lodge with her cousin and his wife. When the couple fail to return from a walk, the woman tries to go into the village to look for them. Instead she comes across a transparent wall behind which there seems to be no life. Trapped behind the wall, a result of a too successful military experiment, she begins the arduous work of not only survival but self-renewal. The Wall is at once a simple document of potatoes and beans, of hoping for a calf, of counting matches, of forgetting the taste of sugar and the use of one's name, and simultaneously a disturbing meditation on our place in the natural world. VINTAGE EARTH is a series of books that reveals our ever-changing relationship with the environment. These are stories old and young, set in worlds real or imagined, that allow us to explore our connection to the natural world. Transformative, wild, surprising and essential, these novels take on the most urgent story of our times.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1784878030"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781784878030"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+            "Dystopias"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YJ66zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YJ66zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=YJ66zgEACAAJ&dq=isbn:9781784878030&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=YJ66zgEACAAJ&dq=isbn:9781784878030&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wall.html?hl=&id=YJ66zgEACAAJ"
     },
     {
-      "id": 4,
-      "title": "Countdown to Zero Day",
-      "author": [
-        "Zim Zetter"
-      ],
-      "date_read": 2020,
-      "description": "\u003ci\u003eTop cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare—one in which a digital attack can have the same destructive capability as a megaton bomb. \u003c/i\u003e\u003cbr /\u003e  \u003cbr /\u003e In January 2010, inspectors with the International Atomic Energy Agency noticed that centrifuges at an Iranian uranium enrichment plant were failing at an unprecedented rate. The cause was a complete mystery—apparently as much to the technicians replacing the centrifuges as to the inspectors observing them. \u003cbr /\u003e  \u003cbr /\u003e Then, five months later, a seemingly unrelated event occurred: A computer security firm in Belarus was called in to troubleshoot some computers in Iran that were crashing and rebooting repeatedly.\u003cbr /\u003e  \u003cbr /\u003e  At first, the firm’s programmers believed the malicious code on the machines was a simple, routine piece of malware. But as they and other experts around the world investigated, they discovered a mysterious virus of unparalleled complexity. \u003cbr /\u003e  \u003cbr /\u003e They had, they soon learned, stumbled upon the world’s first digital weapon. For Stuxnet, as it came to be known, was unlike any other virus or worm built before: Rather than simply hijacking targeted computers or stealing information from them, it escaped the digital realm to wreak actual, \u003ci\u003ephysical \u003c/i\u003edestruction on a nuclear facility.  \u003cbr /\u003e  \u003cbr /\u003e In these pages, \u003ci\u003eWired \u003c/i\u003ejournalist Kim Zetter draws on her extensive sources and expertise to tell the story behind Stuxnet’s planning, execution, and discovery, covering its genesis in the corridors of Bush’s White House and its unleashing on systems in Iran—and telling the spectacular, unlikely tale of the security geeks who managed to unravel a sabotage campaign years in the making. \u003cbr /\u003e  \u003cbr /\u003e But \u003ci\u003eCountdown to Zero Day \u003c/i\u003eranges far beyond Stuxnet itself. Here, Zetter shows us how digital warfare developed in the US. She takes us inside today’s flourishing zero-day “grey markets,” in which intelligence agencies and militaries pay huge sums for the malicious code they need to carry out infiltrations and attacks. She reveals just how vulnerable many of our own critical systems are to Stuxnet-like strikes, from nation-state adversaries and anonymous hackers alike—and shows us just what might happen should our infrastructure be targeted by such an attack. \u003cbr /\u003e  \u003cbr /\u003e Propelled by Zetter’s unique knowledge and access, and filled with eye-opening explanations of the technologies involved, \u003ci\u003eCountdown to Zero Day \u003c/i\u003eis a comprehensive and prescient portrait of a world at the edge of a new kind of war.",
-      "photo": "/books/images/countdownToZeroDay.jpg",
-      "isbn": "9780770436193",
-      "tags": [
-        "cybersecurity",
-        "foreign policy"
-      ],
-      "rating": 4.14
+        "isbn": "9781784878023",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781784878023.jpg",
+        "title": "The Mermaid of Black Conch",
+        "subtitle": "The Spellbinding Winner of the Costa Book of the Year As Read on BBC Radio 4",
+        "authors": [
+            "Monique Roffey"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2022-07-07",
+        "description": "'His stomach trembled with desire and fear and wonder because he knew what he'd seen. A woman. Right there, in the water' Near the island of Black Conch, a fisherman sings to himself while waiting for a catch. But David attracts a sea-dweller that he never expected - Aycayia, an innocent young woman cursed by jealous wives to live as a mermaid. When American tourists capture Aycayia, David rescues her and vows to win her trust. Slowly, painfully, she transforms into a woman again. Yet as their love grows, they discover that the world around them is changing - and they cannot escape the curse for ever VINTAGE EARTH is a series of books that reveals our ever-changing relationship with the environment. These are stories old and young, set in worlds real or imagined, that allow us to explore our connection to the natural world. Transformative, wild, surprising and essential, these novels take on the most urgent story of our times.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1784878022"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781784878023"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KKS5zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KKS5zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=KKS5zgEACAAJ&dq=isbn:9781784878023&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=KKS5zgEACAAJ&dq=isbn:9781784878023&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mermaid_of_Black_Conch.html?hl=&id=KKS5zgEACAAJ"
     },
     {
-      "id": 5,
-      "title": "Why I’m No Longer Talking to White People About Race",
-      "author": [
-        "Reni Eddo-Lodge"
-      ],
-      "date_read": 2020,
-      "description": "In 2014, award-winning journalist Reni Eddo-Lodge wrote about her frustration with the way that discussions of race and racism in Britain were being led by those who weren't affected by it. She posted a piece on her blog, entitled: 'Why I'm No Longer Talking to White People About Race' that led to this book.\u003cbr /\u003e\u003cbr /\u003eExploring issues from eradicated black history to the political purpose of white dominance, whitewashed feminism to the inextricable link between class and race, Reni Eddo-Lodge offers a timely and essential new framework for how to see, acknowledge and counter racism. It is a searing, illuminating, absolutely necessary exploration of what it is to be a person of colour in Britain today.",
-      "photo": "/books/images/whyimlonlongertalkingabout.png",
-      "isbn": "9781408870556",
-      "tags": [
-        "human rights",
-        "informative",
-        "racism",
-        "activism"
-      ],
-      "rating": 4.43
+        "isbn": "9781784877910",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781784877910.jpg",
+        "title": "The Overstory",
+        "subtitle": "A Novel",
+        "authors": [
+            "Richard Powers"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2022-07-07",
+        "description": "'This is not our world with trees in it. It's a world of trees, where humans have just arrived' This is the story of a group of strangers, each summoned in different ways by the natural world, brought together to save it from catastrophe. An artist inherits a hundred years of photographic portraits, all of the same doomed American chestnut. A hard-partying undergraduate electrocutes herself, dies, and is sent back into life by creatures of air and light. A hearing- and speech-impaired scientist discovers that trees are communicating with one another. Moving through history and across landscapes, this tree-filled novel unfurls our potential to destroy or restore the natural world. 'It changed how I thought about the Earth and our place in it' Barack Obama THE MILLION-COPY GLOBAL BESTSELLER and WINNER OF THE PULITZER PRIZE FOR FICTION Vintage Earth is a collection of novels to transform our relationship with the natural world. Each one is a work of creative activism, a blast of fresh air, a seed from which change can grow. The books in this series reconnect us to the planet we inhabit - and must protect. Discover great writing on the most urgent story of our times.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1784877913"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781784877910"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 92,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dE6fzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dE6fzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=dE6fzgEACAAJ&dq=isbn:9781784877910&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=dE6fzgEACAAJ&dq=isbn:9781784877910&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Overstory.html?hl=&id=dE6fzgEACAAJ"
     },
     {
-      "id": 6,
-      "title": "The Moment of Lift",
-      "author": [
-        "Melinda Gates"
-      ],
-      "date_read": 2019,
-      "description": "\u003cb\u003e\u003ci\u003eNEW YORK TIMES \u003c/i\u003eBESTSELLER\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\u003ci\u003eHow can we summon a moment of lift for human beings\u003c/i\u003e—\u003ci\u003eand especially for women? Because when you lift up women, you lift up humanity.\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eFor the last twenty years, Melinda Gates has been on a mission to find solutions for people with the most urgent needs, wherever they live. Throughout this journey, one thing has become increasingly clear to her: If you want to lift society up, you need to stop keeping women down.\u003cbr /\u003e\u003cbr /\u003eIn this moving and compelling book, Melinda shares lessons she’s learned from the inspiring people she’s met during her work and travels around the world. As she writes in the introduction, “That is why I had to write this book—to share the stories of people who have given focus and urgency to my life. I want all of us to see ways we can lift women up where we live.”\u003cbr /\u003e\u003cbr /\u003eMelinda’s unforgettable narrative is backed by startling data as she presents the issues that most need our attention—from child marriage to lack of access to contraceptives to gender inequity in the workplace. And, for the first time, she writes about her personal life and the road to equality in her own marriage. Throughout, she shows how there has never been more opportunity to change the world—and ourselves.\u003cbr /\u003e\u003cbr /\u003eWriting with emotion, candor, and grace, she introduces us to remarkable women and shows the power of connecting with one another.\u003cbr /\u003e\u003cbr /\u003eWhen we lift others up, they lift us up, too.",
-      "photo": "/books/images/theMomentOfLift.jpg",
-      "isbn": "9781250257727",
-      "tags": [
-        "informative",
-        "human rights",
-        "inspiring"
-      ],
-      "rating": 4.31
+        "isbn": "9780714525808",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780714525808.jpg",
+        "title": "The Voices of Marrakesh",
+        "authors": [
+            "Elias Canetti",
+            "James Amery Underwood"
+        ],
+        "publisher": "Marion Boyars Publishers",
+        "publishedDate": "2003",
+        "description": "Marrakesh through the eyes and ears of one of Europe's major writers.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0714525804"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780714525808"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 103,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=F2o_PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=F2o_PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=F2o_PgAACAAJ&dq=isbn:9780714525808&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=F2o_PgAACAAJ&dq=isbn:9780714525808&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Voices_of_Marrakesh.html?hl=&id=F2o_PgAACAAJ"
     },
     {
-      "id": 7,
-      "title": "Get a Life, Chloe Brown",
-      "author": [
-        "Talia Hibbert"
-      ],
-      "date_read": 2019,
-      "description": "Chloe Brown is a chronically ill computer geek with a goal, a plan, and a list. After almost—but not quite—dying, she’s come up with seven directives to help her “Get a Life”, and she’s already completed the first: finally moving out of her glamorous family’s mansion. The next items?\u003cbr /\u003e\u003cbr /\u003e• Enjoy a drunken night out.\u003cbr /\u003e• Ride a motorcycle.\u003cbr /\u003e• Go camping.\u003cbr /\u003e• Have meaningless but thoroughly enjoyable sex.\u003cbr /\u003e• Travel the world with nothing but hand luggage.\u003cbr /\u003e• And... do something bad.\u003cbr /\u003e\u003cbr /\u003eBut it’s not easy being bad, even when you’ve written step-by-step guidelines on how to do it correctly. What Chloe needs is a teacher, and she knows just the man for the job.\u003cbr /\u003e\u003cbr /\u003eRedford ‘Red’ Morgan is a handyman with tattoos, a motorcycle, and more sex appeal than ten-thousand Hollywood heartthrobs. He’s also an artist who paints at night and hides his work in the light of day, which Chloe knows because she spies on him occasionally. Just the teeniest, tiniest bit.\u003cbr /\u003e\u003cbr /\u003eBut when she enlists Red in her mission to rebel, she learns things about him that no spy session could teach her. Like why he clearly resents Chloe’s wealthy background. And why he never shows his art to anyone. And what really lies beneath his rough exterior…",
-      "photo": "/books/images/getalifechloebrown.jpg",
-      "isbn": "9780062941206",
-      "tags": [
-        "funny",
-        "fiction"
-      ],
-      "rating": 3.86
+        "isbn": "9780857197689",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780857197689.jpg",
+        "title": "The Psychology of Money",
+        "subtitle": "Timeless Lessons on Wealth, Greed, and Happiness",
+        "authors": [
+            "Morgan Housel"
+        ],
+        "publisher": "Harriman House Limited",
+        "publishedDate": "2020-09-08",
+        "description": "Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. Money—investing, personal finance, and business decisions—is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780857197689"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0857197681"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=P_xcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=P_xcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=P_xcEAAAQBAJ&dq=isbn:9780857197689&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=P_xcEAAAQBAJ&dq=isbn:9780857197689&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Psychology_of_Money.html?hl=&id=P_xcEAAAQBAJ"
     },
     {
-      "id": 8,
-      "title": "The Tattooist of Auschwitz",
-      "author": [
-        "Heather Morris"
-      ],
-      "date_read": 2019,
-      "description": "\u003ci\u003eThe Tattooist of Auschwitz\u003c/i\u003e is based on the true story of Lale and Gita Sokolov, two Slovakian Jews who survived Auschwitz and eventually made their home in Australia. In that terrible place, Lale was given the job of tattooing the prisoners marked for survival - literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught, he would have been killed; many owed him their survival.\u003cbr /\u003e\u003cbr /\u003eThere have been many books about the Holocaust - and there will be many more. What makes this one so memorable is Lale Sokolov's incredible zest for life. He understood exactly what was in store for him and his fellow prisoners, and he was determined to survive - not just to survive but to leave the camp with his dignity and integrity intact, to live his life to the full. Terrible though this story is, it is also a story of hope and of courage. It is also - almost unbelievably - a love story. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight, and he determined not only to survive himself but to ensure that Gita did, too. His story - their story - will make you weep, but you will also find it uplifting. It shows the very best of humanity in the very worst of circumstances.\u003cbr /\u003e\u003cbr /\u003eLike many survivors, Lale and Gita told few people their story after the war. They eventually made their way to Australia, where they raised a son and had a successful life. But when Gita died, Lale felt he could no longer carry the burden of their past alone. He chose to tell his story. \u003ci\u003ePublisher's Summary\u003c/i\u003e",
-      "photo": "/books/images/theTattooistOfAuschwitz.jpg",
-      "isbn": "9781785763656",
-      "tags": [
-        "fiction",
-        "history"
-      ],
-      "rating": 4.26
+        "isbn": "9780804137386",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780804137386.jpg",
+        "title": "Essentialism",
+        "subtitle": "The Disciplined Pursuit of Less",
+        "authors": [
+            "Greg McKeown"
+        ],
+        "publisher": "Currency",
+        "publishedDate": "2014",
+        "description": "Outlines a systematic framework for enabling greater productivity without overworking, sharing strategies on how to eliminate unnecessary tasks while streamlining essential employee functions. By the co-author of the best-selling Multipliers. 75,000 first printing.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780804137386"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0804137382"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CleNDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CleNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=CleNDQAAQBAJ&dq=isbn:9780804137386&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=CleNDQAAQBAJ&dq=isbn:9780804137386&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essentialism.html?hl=&id=CleNDQAAQBAJ"
     },
     {
-      "id": 9,
-      "title": "Animal",
-      "author": [
-        "Sara Pascoe"
-      ],
-      "date_read": 2020,
-      "description": "\u003ci\u003eThe Tattooist of Auschwitz\u003c/i\u003e is based on the true story of Lale and Gita Sokolov, two Slovakian Jews who survived Auschwitz and eventually made their home in Australia. In that terrible place, Lale was given the job of tattooing the prisoners marked for survival - literally scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. Lale used the infinitesimal freedom of movement that this position awarded him to exchange jewels and money taken from murdered Jews for food to keep others alive. If he had been caught, he would have been killed; many owed him their survival.\u003cbr /\u003e\u003cbr /\u003eThere have been many books about the Holocaust - and there will be many more. What makes this one so memorable is Lale Sokolov's incredible zest for life. He understood exactly what was in store for him and his fellow prisoners, and he was determined to survive - not just to survive but to leave the camp with his dignity and integrity intact, to live his life to the full. Terrible though this story is, it is also a story of hope and of courage. It is also - almost unbelievably - a love story. Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight, and he determined not only to survive himself but to ensure that Gita did, too. His story - their story - will make you weep, but you will also find it uplifting. It shows the very best of humanity in the very worst of circumstances.\u003cbr /\u003e\u003cbr /\u003eLike many survivors, Lale and Gita told few people their story after the war. They eventually made their way to Australia, where they raised a son and had a successful life. But when Gita died, Lale felt he could no longer carry the burden of their past alone. He chose to tell his story. \u003ci\u003ePublisher's Summary\u003c/i\u003e",
-      "photo": "/books/images/Animal.jpg",
-      "isbn": "9781785763656",
-      "tags": [
-        "feminism",
-        "growth",
-        "informative"
-      ],
-      "rating": 4.26
+        "isbn": "9783596185986",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9783596185986.jpg",
+        "title": "Americanah",
+        "authors": [
+            "Chimamanda Ngozi Adichie"
+        ],
+        "publishedDate": "2015-06-25",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "359618598X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9783596185986"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WGQOogEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WGQOogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.ie/books?id=WGQOogEACAAJ&dq=isbn:9783596185986&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=WGQOogEACAAJ&dq=isbn:9783596185986&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Americanah.html?hl=&id=WGQOogEACAAJ"
     },
     {
-      "id": 10,
-      "title": "Girl, Wash Your Face",
-      "author": [
-        "Rachel Hollis"
-      ],
-      "date_read": 2019,
-      "description": "\u003cstrong\u003eWith wry wit and hard-earned wisdom, popular online personality and founder of TheChicSite.com founder Rachel Hollis helps readers break free from the lies keeping them from the joy-filled and exuberant life they are meant to have.\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eFounder of the lifestyle website TheChicSite.com and CEO of her own media company, Chic Media, Rachel Hollis has created an online fan base of hundreds of thousands of fans by sharing tips for living a better life while fearlessly revealing the messiness of her own. Now comes her highly anticipated first book featuring her signature combination of honesty, humor, and direct, no-nonsense advice.\u003cbr /\u003e\u003cbr /\u003eEach chapter of \u003cem\u003eGirl, Wash Your Face\u003c/em\u003e begins with a specific lie Hollis once believed that left her feeling overwhelmed, unworthy, or ready to give up. As a working mother, a former foster parent, and a woman who has dealt with insecurities about her body and relationships, she speaks with the insight and kindness of a BFF, helping women unpack the limiting mind-sets that destroy their self-confidence and keep them from moving forward.\u003cbr /\u003e\u003cbr /\u003eFrom her temporary obsession with marrying Matt Damon to a daydream involving hypnotic iguanas to her son’s request that she buy a necklace to “be like the other moms,” Hollis holds nothing back. With unflinching faith and tenacity, Hollis spurs other women to live with passion and hustle and to awaken their slumbering goals.",
-      "photo": "/books/images/girlWashYourFace.jpg",
-      "isbn": "9781400220809",
-      "tags": [
-        "growth",
-        "mindset"
-      ],
-      "rating": 3.71
+        "isbn": "9783060311354",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9783060311354.jpg",
+        "title": "Fahrenheit 451",
+        "subtitle": "",
+        "authors": [
+            "Ray Bradbury"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "3060311358"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9783060311354"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=N0jHwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=N0jHwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=N0jHwAEACAAJ&dq=isbn:9783060311354&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=N0jHwAEACAAJ&dq=isbn:9783060311354&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fahrenheit_451.html?hl=&id=N0jHwAEACAAJ"
     },
     {
-      "id": 11,
-      "title": "The Nightingale",
-      "author": [
-        "Kristin Hannah"
-      ],
-      "date_read": 2019,
-      "description": "The New York Times number one bestselling title Bravery, courage, fear and love in a time of war. Despite their differences, sisters Viann and Isabelle have always been close. Younger, bolder Isabelle lives in Paris while Viann is content with life in the French countryside with her husband Antoine and their daughter. But when the Second World War strikes, Antoine is sent off to fight and Viann finds herself isolated so Isabelle is sent by their father to help her. As the war progresses, the sisters' relationship and strength is tested. With life changing in unbelievably horrific ways, Viann and Isabelle will find themselves facing frightening situations and responding in ways they never thought possible as bravery and resistance take different forms in each of their actions. Vivid and exquisite in its illumination of a time and place that was filled with atrocities, but also humanity and strength, Kristin Hannah's The Nightingale will provoke thought and discussion that will have readers talking long after they finish reading.",
-      "photo": "/books/images/theNightingale.jpg",
-      "isbn": "9781509848621",
-      "tags": [
-        "fiction",
-        "history"
-      ],
-      "rating": 4.57
+        "isbn": "9780812988406",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780812988406.jpg",
+        "title": "When Breath Becomes Air",
+        "authors": [
+            "Paul Kalanithi"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2016-01-12",
+        "description": "#1 NEW YORK TIMES BESTSELLER • PULITZER PRIZE FINALIST • This inspiring, exquisitely observed memoir finds hope and beauty in the face of insurmountable odds as an idealistic young neurosurgeon attempts to answer the question What makes a life worth living? NAMED ONE OF PASTE’S BEST MEMOIRS OF THE DECADE • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review • People • NPR • The Washington Post • Slate • Harper’s Bazaar • Time Out New York • Publishers Weekly • BookPage Finalist for the PEN Center USA Literary Award in Creative Nonfiction and the Books for a Better Life Award in Inspirational Memoir At the age of thirty-six, on the verge of completing a decade’s worth of training as a neurosurgeon, Paul Kalanithi was diagnosed with stage IV lung cancer. One day he was a doctor treating the dying, and the next he was a patient struggling to live. And just like that, the future he and his wife had imagined evaporated. When Breath Becomes Air chronicles Kalanithi’s transformation from a naïve medical student “possessed,” as he wrote, “by the question of what, given that all organisms die, makes a virtuous and meaningful life” into a neurosurgeon at Stanford working in the brain, the most critical place for human identity, and finally into a patient and new father confronting his own mortality. What makes life worth living in the face of death? What do you do when the future, no longer a ladder toward your goals in life, flattens out into a perpetual present? What does it mean to have a child, to nurture a new life as another fades away? These are some of the questions Kalanithi wrestles with in this profoundly moving, exquisitely observed memoir. Paul Kalanithi died in March 2015, while working on this book, yet his words live on as a guide and a gift to us all. “I began to realize that coming face to face with my own mortality, in a sense, had changed nothing and everything,” he wrote. “Seven words from Samuel Beckett began to repeat in my head: ‘I can’t go on. I’ll go on.’” When Breath Becomes Air is an unforgettable, life-affirming reflection on the challenge of facing death and on the relationship between doctor and patient, from a brilliant writer who became both.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780812988406"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "081298840X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 142,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=93faCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=93faCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=93faCwAAQBAJ&dq=isbn:9780812988406&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=93faCwAAQBAJ&dq=isbn:9780812988406&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/When_Breath_Becomes_Air.html?hl=&id=93faCwAAQBAJ"
     },
     {
-      "id": 12,
-      "title": "You are a badass: How to stop doubting your greatness and start living an awesome life",
-      "author": [
-        "Jen Sincero"
-      ],
-      "date_read": 2019,
-      "description": "\u003cb\u003eThe #1 \u003ci\u003eNew York Times\u003c/i\u003e Bestseller \u003ci\u003eYou Are A Badass\u003c/i\u003e is the self-help book for people who desperately want to improve their lives but don't want to get busted doing it.\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eIn this refreshingly entertaining how-to guide, #1 \u003ci\u003eNew York Times\u003c/i\u003e Bestselling Author and world-traveling success coach, Jen Sincero, serves up 27 bite-sized chapters full of hilariously inspiring stories, sage advice, easy exercises, and the occasional swear word. If you're ready to make some serious changes around here, \u003ci\u003eYou Are a Badass\u003c/i\u003e will help you: Identify and change the self-sabotaging beliefs and behaviors that stop you from getting what you want, blast past your fears so you can take big exciting risks, figure out how to make some damn money already, learn to love yourself and others, set big goals and reach them - it will basically show you how to create a life you totally love, and how to create it \u003ci\u003enow\u003c/i\u003e.\u003cbr /\u003e\u003cbr /\u003eBy the end of \u003ci\u003eYou Are a Badass\u003c/i\u003e, you'll understand why you are how you are, how to love what you can't change, how to change what you don't love, and how to use The Force to kick some serious ass.",
-      "photo": "/books/images/youAreABadass.jpg",
-      "isbn": "9780762447695",
-      "tags": [
-        "growth",
-        "mindset"
-      ],
-      "rating": 3.95
+        "isbn": "9780399588174",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780399588174.jpg",
+        "title": "Born a Crime",
+        "subtitle": "Stories from a South African Childhood",
+        "authors": [
+            "Trevor Noah"
+        ],
+        "publisher": "One World",
+        "publishedDate": "2016-11-15",
+        "description": "#1 NEW YORK TIMES BESTSELLER • More than one million copies sold! A “brilliant” (Lupita Nyong’o, Time), “poignant” (Entertainment Weekly), “soul-nourishing” (USA Today) memoir about coming of age during the twilight of apartheid “Noah’s childhood stories are told with all the hilarity and intellect that characterizes his comedy, while illuminating a dark and brutal period in South Africa’s history that must never be forgotten.”—Esquire Winner of the Thurber Prize for American Humor and an NAACP Image Award • Named one of the best books of the year by The New York Time, USA Today, San Francisco Chronicle, NPR, Esquire, Newsday, and Booklist Trevor Noah’s unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parents’ indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away. Finally liberated by the end of South Africa’s tyrannical white rule, Trevor and his mother set forth on a grand adventure, living openly and freely and embracing the opportunities won by a centuries-long struggle. Born a Crime is the story of a mischievous young boy who grows into a restless young man as he struggles to find himself in a world where he was never supposed to exist. It is also the story of that young man’s relationship with his fearless, rebellious, and fervently religious mother—his teammate, a woman determined to save her son from the cycle of poverty, violence, and abuse that would ultimately threaten her own life. The stories collected here are by turns hilarious, dramatic, and deeply affecting. Whether subsisting on caterpillars for dinner during hard times, being thrown from a moving car during an attempted kidnapping, or just trying to survive the life-and-death pitfalls of dating in high school, Trevor illuminates his curious world with an incisive wit and unflinching honesty. His stories weave together to form a moving and searingly funny portrait of a boy making his way through a damaged world in a dangerous time, armed only with a keen sense of humor and a mother’s unconventional, unconditional love.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780399588174"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0399588175"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 135,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8LdPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8LdPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=8LdPEAAAQBAJ&dq=isbn:9780399588174&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=8LdPEAAAQBAJ&dq=isbn:9780399588174&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Born_a_Crime.html?hl=&id=8LdPEAAAQBAJ"
     },
     {
-      "id": 13,
-      "title": "The Little Book of Lykke",
-      "author": [
-        "Meik Wiking"
-      ],
-      "date_read": 2019,
-      "description": "",
-      "photo": "/books/images/theLittleBookOfLykke.jpg",
-      "isbn": "9780062820334",
-      "tags": [
-        "happiness",
-        "hygge",
-        "lifestyle"
-      ],
-      "rating": 4.03
+        "isbn": "9788416700677",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9788416700677.jpg",
+        "title": "SPA-POWER",
+        "authors": [
+            "Naomi Alderman"
+        ],
+        "publishedDate": "2017-09-30",
+        "description": "\"A small twist of nature - teenage girls now have the power to cause agonizing pain and even death. The world drastically changes. THE POWER is speculative fiction at its most ambitious and provocative, taking us on a thrilling journey to an alternate reality while exposing our own world.\"",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "8416700672"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9788416700677"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pV_mAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pV_mAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.ie/books?id=pV_mAQAACAAJ&dq=isbn:9788416700677&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=pV_mAQAACAAJ&dq=isbn:9788416700677&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SPA_POWER.html?hl=&id=pV_mAQAACAAJ"
     },
     {
-      "id": 14,
-      "title": "Gone Viking",
-      "author": [
-        "Helen Russel"
-      ],
-      "date_read": 2019,
-      "description": "\u003cb\u003eBe bold. Be brave. Be Viking...\u003c/b\u003e\u003cbr /\u003e\u003cb\u003e\u003c/b\u003e\u003cbr /\u003e\u003cb\u003e\u003c/b\u003e\u003ci\u003eThe uplifting, laugh out loud debut novel from the bestselling author of THE YEAR OF LIVING DANISHLY\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003eFrazzled mum Alice Ray likes to think she’s on top everything – she has FOUR bags-for-life in the boot of her car for heaven's sake. But after spectacularly embarrassing herself at work, she finally gives in to her sister’s pleas to take a much needed break.\u003cbr /\u003e\u003cbr /\u003eBut this is not the luxury spa holiday Alice hoped for – instead, she finds herself in Denmark, in the middle of nowhere, on a ‘How to be a Viking’ getaway.\u003cbr /\u003e\u003cbr /\u003eCan the two sisters finally learn to get along or will learning to embrace their inner warrior just make them better at fighting?\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003eTwo sisters. One Scandi holiday they'll never forget...\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003eGONE VIKING is a laugh out loud debut novel perfect for fans of Sophie Kinsella's \u003ci\u003eSurprise Me \u003c/i\u003e\u003c/b\u003e",
-      "photo": "/books/images/GoneViking.jpg",
-      "isbn": "9781785036491",
-      "tags": [
-        "fiction",
-        "funny"
-      ],
-      "rating": 3.56
+        "isbn": "9780525573920",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780525573920.jpg",
+        "title": "Alpha Girls",
+        "subtitle": "The Women Upstarts who Took on Silicon Valley's Male Culture and Made the Deals of a Lifetime",
+        "authors": [
+            "Julian Guthrie"
+        ],
+        "publishedDate": "2019",
+        "description": "\"Alpha Girls is reporter Julian Guthrie's powerful account of five women pioneers in the field of venture capital who bucked the system and found ways to survive and thrive in the cutthroat, high-stakes, male-dominated world of Silicon Valley\"--Provided by publisher.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780525573920"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0525573925"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NvqPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NvqPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=NvqPDwAAQBAJ&dq=isbn:9780525573920&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=NvqPDwAAQBAJ&dq=isbn:9780525573920&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alpha_Girls.html?hl=&id=NvqPDwAAQBAJ"
     },
     {
-      "id": 15,
-      "title": "Shoe Dog",
-      "author": [
-        "Phil Knight"
-      ],
-      "date_read": 2018,
-      "description": "In this instant\u003ci\u003e \u003c/i\u003eand tenacious \u003ci\u003eNew York Times\u003c/i\u003e bestseller, Nike founder and board chairman Phil Knight “offers a rare and revealing look at the notoriously media-shy man behind the swoosh” (\u003ci\u003eBooklist\u003c/i\u003e, starred review), opening up about his company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands.\u003cbr /\u003e\u003cbr /\u003eYoung, searching, fresh out of business school, Phil Knight borrowed fifty dollars from his father and launched a company with one simple mission: import high-quality, low-cost running shoes from Japan. Selling the shoes from the trunk of his car in 1963, Knight grossed eight thousand dollars that first year. Today, Nike’s annual sales top $30 billion. In this age of start-ups, Knight’s Nike is the gold standard, and its swoosh is more than a logo. A symbol of grace and greatness, it’s one of the few icons instantly recognized in every corner of the world.\u003cbr /\u003e\u003cbr /\u003eBut Knight, the man behind the swoosh, has always been a mystery. In \u003ci\u003eShoe Dog\u003c/i\u003e, he tells his story at last. It all begins with a classic crossroads moment at twenty-four, backpacking across the world, and wrestling with life’s Great Questions. Rather than work for a big corporation, Knight decides he will create something all his own, something new, dynamic, different. He details the many terrifying risks he encountered, the crushing setbacks, the ruthless competitors, the countless doubters and haters and hostile bankers—as well as his many thrilling triumphs and narrow escapes. Above all, he recalls the relationships that formed the heart and soul of Nike, with his former track coach, the irascible and charismatic Bill Bowerman, and with his first employees, a ragtag group of misfits and savants who quickly became a band of swoosh-crazed brothers.\u003cbr /\u003e\u003cbr /\u003eTogether, harnessing the electrifying power of a bold vision and a shared belief in the redemptive, transformative power of sports, they created a brand—and a culture—that changed everything.",
-      "photo": "/books/images/ShoeDog.jpg",
-      "isbn": "9781501135927",
-      "tags": [
-        "autobiography",
-        "inspiring",
-        "entrepreneurial"
-      ],
-      "rating": 4.48
+        "isbn": "9781501161933",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781501161933.jpg",
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "subtitle": "A Novel",
+        "authors": [
+            "Taylor Jenkins Reid"
+        ],
+        "publisher": "Washington Square Press",
+        "publishedDate": "2018-05-29",
+        "description": "“Riveting, heart-wrenching, and full of Old Hollywood glamour, The Seven Husbands of Evelyn Hugo is one of the most captivating reads of 2017.” —BuzzFeed “The epic adventures Evelyn creates over the course of a lifetime will leave every reader mesmerized. This wildly addictive journey of a reclusive Hollywood starlet and her tumultuous Tinseltown journey comes with unexpected twists and the most satisfying of drama.” —PopSugar From the author of Daisy Jones & The Six—an entrancing novel “that speaks to the Marilyn Monroe and Elizabeth Taylor in us all” (Kirkus Reviews), in which a legendary film actress reflects on her relentless rise to the top and the risks she took, the loves she lost, and the long-held secrets the public could never imagine. Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. Why her? Why now? Monique is not exactly on top of the world. Her husband has left her, and her professional life is going nowhere. Regardless of why Evelyn has selected her to write her biography, Monique is determined to use this opportunity to jumpstart her career. Summoned to Evelyn’s luxurious apartment, Monique listens in fascination as the actress tells her story. From making her way to Los Angeles in the 1950s to her decision to leave show business in the ‘80s, and, of course, the seven husbands along the way, Evelyn unspools a tale of ruthless ambition, unexpected friendship, and a great forbidden love. Monique begins to feel a very real connection to the legendary star, but as Evelyn’s story near its conclusion, it becomes clear that her life intersects with Monique’s own in tragic and irreversible ways. “Heartbreaking, yet beautiful” (Jamie Blynn, Us Weekly), The Seven Husbands of Evelyn Hugo is “Tinseltown drama at its finest” (Redbook): a mesmerizing journey through the splendor of old Hollywood into the harsh realities of the present day as two women struggle with what it means—and what it costs—to face the truth.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1501161938"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781501161933"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=s8X3yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=s8X3yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=s8X3yQEACAAJ&dq=isbn:9781501161933&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=s8X3yQEACAAJ&dq=isbn:9781501161933&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Seven_Husbands_of_Evelyn_Hugo.html?hl=&id=s8X3yQEACAAJ"
     },
     {
-      "id": 16,
-      "title": "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone",
-      "author": [
-        "Satya Nadella"
-      ],
-      "date_read": 2018,
-      "description": "As told by Microsoft CEO Satya Nadella, Hit Refresh is the story of corporate change and reinvention as well as the story of Nadella’s personal journey, one that is taking place today inside a storied technology company, and one that is coming in all of our lives as intelligent machines become more ambient and more ubiquitous. It’s about how people, organizations and societies can and must hit refresh—transform—in their persistent quest for new energy, new ideas, relevance and renewal. At the core, it’s about us humans and our unique qualities, like empathy, which will become ever more valuable in a world where the torrent of technology will disrupt like never before. As much a humanist as a technologist, Nadella defines his mission and that of the company he leads as empowering every person and every organization on the planet to achieve more.",
-      "photo": "/books/images/HitRefreshSatya.jpg",
-      "isbn": "9783864704833",
-      "tags": [
-        "autobiography",
-        "technology",
-        "inspiring"
-      ],
-      "rating": 3.8
+        "isbn": "9788711918647",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9788711918647.jpg",
+        "title": "Gileads døtre",
+        "authors": [
+            "Margaret Atwood"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2019-11-15",
+        "description": "\"Kære læsere. Alt, hvad I nogen sinde har spurgt mig om Gilead og dets opbygning, er brugt som inspiration til denne bog. Eller næsten alt. Resten er inspireret af den verden, vi lever i.\" - Margaret Atwood I denne selvstændige fortsættelse til Tjenerindens fortælling svarer den anerkendte forfatter Margaret Atwood på de spørgsmål, som har forundret og pint læsere i årtier. Da bildøren smækkede i på sidste side i Tjenerindens fortælling, anede læserne ikke, hvad det betød for Offreds fremtid - frihed, fængsel eller død. Med Gileads døtre er ventetiden endelig forbi. Her samler Margaret Atwood tråden op, femten år efter at Offred trådte ud i det ukendte, med vidnesbyrd fra tre kvinder inde fra Gilead. Margaret Atwood (f. 1939) er canadisk forfatter, litteraturkritiker og miljøaktivist. Atwood oplever i disse år fornyet opmærksomhed internationalt og nævnes som kandidat til Nobelprisen i litteratur.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9788711918647"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "8711918640"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jOi9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jOi9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "da",
+        "previewLink": "http://books.google.ie/books?id=jOi9DwAAQBAJ&printsec=frontcover&dq=isbn:9788711918647&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jOi9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jOi9DwAAQBAJ"
     },
     {
-      "id": 17,
-      "title": "Lean In: Women, Work, and the Will to Lead",
-      "author": [
-        "Sheryl Sandberg"
-      ],
-      "date_read": 2018,
-      "description": "In Deutschland sitzen in den Vorständen der 100 umsatzstärksten Firmen gerade einmal drei Prozent Frauen. International sieht es nicht viel besser aus. Sheryl Sandberg ist COO von Facebook und gehörte davor zur Führungsmannschaft bei Google. Zusammen mit ihrem Mann Dave erzieht sie zwei kleine Kinder. Sie ist eine der wenigen sichtbaren Top-Managerinnen weltweit und ein Vorbild für Frauen aller Generationen. In ihrem Buch widmet sie sich ihrem Herzensthema: Wie können mehr Frauen in anspruchsvollen Jobs an die Spitze gelangen? Sie beschreibt äußere und innere Barrieren, die Frauen den Aufstieg verwehren. Sandberg zeigt, wie jede Frau ihre Ziele erreichen kann.",
-      "photo": "/books/images/LeanIn.jpg",
-      "isbn": "9783548375496",
-      "tags": [
-        "technology",
-        "inspiring",
-        "informative"
-      ],
-      "rating": 3.95
+        "isbn": "9780385539241",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780385539241.jpg",
+        "title": "The Handmaid's Tale (Graphic Novel)",
+        "authors": [
+            "Margaret Atwood"
+        ],
+        "publisher": "Nan A. Talese",
+        "publishedDate": "2019-03-26",
+        "description": "An instant classic when it was published in 1985, Atwood's genre-bending, dystopian story comes to life in this new, beautifully illustrated graphic novel. Margaret Atwood's best-loved novel has taken the world by storm again. Riding high on bestseller lists for months and the basis for Hulu's Emmy and Golden Globe Award-winning smash hit series, The Handmaid's Tale is everywhere--and it's primed for a stunning new graphic novel adaptation. The story is iconic: In the Republic of Gilead, a Handmaid named Offred lives in the home of the Commander, to the purpose that she become pregnant with his child. Stripped of her most basic freedoms, (work, property, her own name), Offred remembers a different time, not so long ago, when she was valuable for more than her viable ovaries, when she was mother to a daughter she could keep, and when she and her husband lived and loved as equals. Darkly prescient, scathingly sarcastic, and eminently frightening, The Handmaid's Tale has only gained relevance since it was originally published, and remains one of the most powerful, widely read stories of our times. This illustrated edition is a must-have for Atwood's growing legions of fans.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "038553924X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780385539241"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+            "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=89xcuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=89xcuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=89xcuQEACAAJ&dq=isbn:9780385539241&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=89xcuQEACAAJ&dq=isbn:9780385539241&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Handmaid_s_Tale_Graphic_Novel.html?hl=&id=89xcuQEACAAJ"
     },
     {
-      "id": 18,
-      "title": "Ready Player One",
-      "author": [
-        "Ernest Cline"
-      ],
-      "date_read": 2019,
-      "description": "\u003cb\u003eSOON TO BE A MAJOR MOTION PICTURE DIRECTED BY STEVEN SPIELBERG\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003e**A world at stake. \u003c/b\u003e\u003cb\u003eA quest for the ultimate prize. \u003c/b\u003e\u003cb\u003e\n  \u003ci\u003eAre you ready?**\u003c/i\u003e\n\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eIn the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he’s jacked into the OASIS, a vast virtual world where most of humanity spends their days.\u003cbr /\u003e\u003cbr /\u003eWhen the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune – and control of the OASIS itself.\u003cbr /\u003e\u003cbr /\u003eThen Wade cracks the first clue. Suddenly he’s beset by rivals who’ll kill to take this prize. The race is on – and the only way to survive is to win.\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003e‘Wildly original and stuffed with irresistible nostalgia, \u003ci\u003eReady Player One\u003c/i\u003e is a spectacularly genre-busting, ambitious, and charming debut’ \u003ci\u003e\n  \u003cb\u003eIndependent\u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Part intergalactic scavenger hunt, part romance, and all heart’ \u003ci\u003e\n  \u003cb\u003eCNN \u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Ernest Cline’s novel deserves to be a modern classic’ \u003ci\u003e\n  \u003cb\u003eSciFiNow\u003c/b\u003e\n\u003c/i\u003e\u003cbr /\u003e\u003cbr /\u003e‘Gorgeously geeky, superbly entertaining, this really is a spectacularly successful debut’ \u003ci\u003e\n  \u003cb\u003eDaily Mail\u003c/b\u003e\n\u003c/i\u003e",
-      "photo": "/books/images/readyPlayerOne.jpg",
-      "isbn": "9781784754792",
-      "tags": [
-        "fiction",
-        "sci-fi"
-      ],
-      "rating": 4.26
+        "isbn": "9780399592096",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780399592096.jpg",
+        "title": "The Ride of a Lifetime",
+        "subtitle": "Lessons Learned from 15 Years as CEO of the Walt Disney Company",
+        "authors": [
+            "Robert Iger"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2019-09-23",
+        "description": "#1 NEW YORK TIMES BESTSELLER • A memoir of leadership and success: The executive chairman of Disney, Time’s 2019 businessperson of the year, shares the ideas and values he embraced during his fifteen years as CEO while reinventing one of the world’s most beloved companies and inspiring the people who bring the magic to life. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR Robert Iger became CEO of The Walt Disney Company in 2005, during a difficult time. Competition was more intense than ever and technology was changing faster than at any time in the company’s history. His vision came down to three clear ideas: Recommit to the concept that quality matters, embrace technology instead of fighting it, and think bigger—think global—and turn Disney into a stronger brand in international markets. Today, Disney is the largest, most admired media company in the world, counting Pixar, Marvel, Lucasfilm, and 21st Century Fox among its properties. Its value is nearly five times what it was when Iger took over, and he is recognized as one of the most innovative and successful CEOs of our era. In The Ride of a Lifetime, Robert Iger shares the lessons he learned while running Disney and leading its 220,000-plus employees, and he explores the principles that are necessary for true leadership, including: • Optimism. Even in the face of difficulty, an optimistic leader will find the path toward the best possible outcome and focus on that, rather than give in to pessimism and blaming. • Courage. Leaders have to be willing to take risks and place big bets. Fear of failure destroys creativity. • Decisiveness. All decisions, no matter how difficult, can be made on a timely basis. Indecisiveness is both wasteful and destructive to morale. • Fairness. Treat people decently, with empathy, and be accessible to them. This book is about the relentless curiosity that has driven Iger for forty-five years, since the day he started as the lowliest studio grunt at ABC. It’s also about thoughtfulness and respect, and a decency-over-dollars approach that has become the bedrock of every project and partnership Iger pursues, from a deep friendship with Steve Jobs in his final years to an abiding love of the Star Wars mythology. “The ideas in this book strike me as universal” Iger writes. “Not just to the aspiring CEOs of the world, but to anyone wanting to feel less fearful, more confidently themselves, as they navigate their professional and even personal lives.”",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780399592096"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0399592091"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_qqxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_qqxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=_qqxDwAAQBAJ&dq=isbn:9780399592096&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=_qqxDwAAQBAJ&dq=isbn:9780399592096&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ride_of_a_Lifetime.html?hl=&id=_qqxDwAAQBAJ"
     },
     {
-      "id": 19,
-      "title": "Animal Farm",
-      "author": [
-        "George Orwell"
-      ],
-      "date_read": 2018,
-      "description": "",
-      "photo": "/books/images/animalFarm.jpg",
-      "isbn": "9781444121414",
-      "tags": [
-        "allegorical",
-        "pyschology"
-      ],
-      "rating": 2
+        "isbn": "9781982115852",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781982115852.jpg",
+        "title": "The Code Breaker",
+        "subtitle": "Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+        "authors": [
+            "Walter Isaacson"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-03-09",
+        "description": "\"A gripping account of how the pioneering scientist Jennifer Doudna, along with her colleagues and rivals, launched a revolution that will allow us to cure diseases, fend off viruses, and enhance our children\"--",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781982115852"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1982115858"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=98skEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=98skEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=98skEAAAQBAJ&printsec=frontcover&dq=isbn:9781982115852&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=98skEAAAQBAJ&dq=isbn:9781982115852&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Code_Breaker.html?hl=&id=98skEAAAQBAJ"
     },
     {
-      "id": 20,
-      "title": "The Little Book of Hygge",
-      "author": [
-        "Meik Wiking"
-      ],
-      "date_read": 2018,
-      "description": "\u003cstrong\u003e\u003cem\u003eNew York Times\u003c/em\u003e Bestseller\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eEmbrace Hygge (pronounced hoo-ga) and become happier with this definitive guide to the Danish philosophy of comfort, togetherness, and well-being.\u003cbr /\u003e\u003cbr /\u003eWhy are Danes the happiest people in the world? The answer, says Meik Wiking, CEO of the Happiness Research Institute in Copenhagen, is Hygge. Loosely translated, Hygge--pronounced Hoo-ga--is a sense of comfort, togetherness, and well-being. -Hygge is about an atmosphere and an experience, - Wiking explains. -It is about being with the people we love. A feeling of home. A feeling that we are safe.-\u003cbr /\u003e\u003cbr /\u003eHygge is the sensation you get when you're cuddled up on a sofa, in cozy socks under a soft throw, during a storm. It's that feeling when you're sharing comfort food and easy conversation with loved ones at a candlelit table. It is the warmth of morning light shining just right on a crisp blue-sky day.\u003cbr /\u003e\u003cbr /\u003e\u003cem\u003eThe Little Book of Hygge\u003c/em\u003e introduces you to this cornerstone of Danish life, and offers advice and ideas on incorporating it into your own life, such as:\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003eGet comfy. Take a break.\u003cbr /\u003eBe here now. Turn off the phones.\u003cbr /\u003eTurn down the lights. Bring out the candles.\u003cbr /\u003eBuild relationships. Spend time with your tribe.\u003cbr /\u003eGive yourself a break from the demands of healthy living. Cake is most definitely Hygge.\u003cbr /\u003eLive life today, like there is no coffee tomorrow.\u003cbr /\u003eFrom picking the right lighting to organizing a Hygge get-together to dressing hygge, Wiking shows you how to experience more joy and contentment the Danish way.",
-      "photo": "/books/images/theLittleBookOfHygge.jpg",
-      "isbn": "9781432839673",
-      "tags": [
-        "happiness",
-        "hygge",
-        "lifestyle"
-      ],
-      "rating": 3.75
+        "isbn": "9781526629852",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781526629852.jpg",
+        "title": "This is how They Tell Me the World Ends",
+        "subtitle": "The Cyberweapons Arms Race",
+        "authors": [
+            "Nicole Perlroth",
+            "Bloomsbury (Firm)"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2021",
+        "description": "Filled with spies, hackers, arms dealers, and a few unsung heroes, written like a thriller and a reference, This Is How They Tell Me the World Ends is an astonishing feat of journalism. Based on years of reporting and hundreds of interviews, The New York Times reporter Nicole Perlroth lifts the curtain on a market in shadow, revealing the urgent threat faced by us all if we cannot bring the global cyber arms race to heel.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781526629852"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1526629852"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+            "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=QxFbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=QxFbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=QxFbEAAAQBAJ&dq=isbn:9781526629852&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=QxFbEAAAQBAJ&dq=isbn:9781526629852&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_is_how_They_Tell_Me_the_World_Ends.html?hl=&id=QxFbEAAAQBAJ"
     },
     {
-      "id": 21,
-      "title": "The Subtle Art of Not Giving a F*ck",
-      "author": [
-        "Mark Manson"
-      ],
-      "date_read": 2019,
-      "description": "\u003cstrong\u003e\u003cem\u003eNew York Times\u003c/em\u003e Bestseller\u003c/strong\u003e\u003cbr /\u003e\u003cbr /\u003eIn this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.\u003cbr /\u003e\u003cbr /\u003eFor decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. \u003cem\u003eThe Subtle Art of Not Giving a F**k\u003c/em\u003e is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.\u003cbr /\u003e\u003cbr /\u003eManson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.\u003cbr /\u003e\u003cbr /\u003eThere are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, \u003cem\u003eThe Subtle Art of Not Giving a F**k\u003c/em\u003e is a refreshing slap for a generation to help them lead contented, grounded lives.",
-      "photo": "/books/images/The_Subtle_Art_of_Not_Giving_a_F ck.png",
-      "isbn": "9780062457714",
-      "tags": [
-        "mindest",
-        "growth"
-      ],
-      "rating": 3.94
+        "isbn": "9780241408513",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780241408513.jpg",
+        "title": "Agent Sonya",
+        "subtitle": "Lover, Mother, Soldier, Spy",
+        "authors": [
+            "Ben Macintyre"
+        ],
+        "publisher": "Viking",
+        "publishedDate": "2020-09-15",
+        "description": "In the quiet Cotswolds village of Great Rollright in 1944, a thin, and unusually elegant, housewife emerged from her cottage to go on her usual bike ride. A devoted mother-of-three, attentive wife and friendly neighbour, Sonya Burton seemed to epitomise rural British domesticity. However, rather than pedalling towards the shops with her ration book, Sonya was heading for the Oxfordshire countryside to gather scientific secrets from a nuclear physicist. Secrets that would enable the Soviet Union to build the atomic bomb. Far from an obedient homemaker, Sonya Burton was a dedicated communist, a decorated colonel and a veteran spy who risked her life to keep the Soviet Union in the nuclear arms race. In Mrs Burton, Ben Macintyre reveals the astonishing story behind the most important female spy in history.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0241408512"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780241408513"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Xu9FzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Xu9FzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=Xu9FzQEACAAJ&dq=isbn:9780241408513&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=Xu9FzQEACAAJ&dq=isbn:9780241408513&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Agent_Sonya.html?hl=&id=Xu9FzQEACAAJ"
     },
     {
-      "id": 22,
-      "title": "Cloud Native DevOps with Kubernetes",
-      "author": [
-        "Jason Arundel, Justin Domingus"
-      ],
-      "date_read": 2019,
-      "description": "Kubernetes is the operating system of the cloud native world, providing a reliable and scalable platform for running containerized workloads. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do--and what you can do with it.\u003cbr /\u003e\u003cbr /\u003eYou'll learn all about the Kubernetes ecosystem, and use battle-tested solutions to everyday problems. You'll build, step by step, an example cloud native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications.\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003eUnderstand containers and Kubernetes from first principles; no experience necessary\u003cbr /\u003eRun your own clusters or choose a managed Kubernetes service from Amazon, Google, and others\u003cbr /\u003eUse Kubernetes to manage resource usage and the container lifecycle\u003cbr /\u003eOptimize clusters for cost, performance, resilience, capacity, and scalability\u003cbr /\u003eLearn the best tools for developing, testing, and deploying your applications\u003cbr /\u003eApply the latest industry practices for security, observability, and monitoring\u003cbr /\u003eAdopt DevOps principles to help make your development teams lean, fast, and effective",
-      "photo": "/books/images/cloudNativeDevopsWithKubernetes.jpg",
-      "isbn": "9781492040767",
-      "tags": [
-        "devops",
-        "kubernetes"
-      ],
-      "rating": 4.39
+        "isbn": "9780241186657",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780241186657.jpg",
+        "title": "The Spy and the Traitor",
+        "subtitle": "The Greatest Espionage Story of the Cold War",
+        "authors": [
+            "Ben Macintyre"
+        ],
+        "publisher": "Viking",
+        "publishedDate": "2018-09-20",
+        "description": "'THE BEST TRUE SPY STORY I HAVE EVER READ' JOHN LE CARRÉ A thrilling Cold War story about a KGB double agent, by one of Britain's greatest historians On a warm July evening in 1985, a middle-aged man stood on the pavement of a busy avenue in the heart of Moscow, holding a plastic carrier bag. In his grey suit and tie, he looked like any other Soviet citizen. The bag alone was mildly conspicuous, printed with the red logo of Safeway, the British supermarket. The man was a spy for MI6. A senior KGB officer, for more than a decade he had supplied his British spymasters with a stream of priceless secrets from deep within the Soviet intelligence machine. No spy had done more to damage the KGB. The Safeway bag was a signal: to activate his escape plan to be smuggled out of Soviet Russia. So began one of the boldest and most extraordinary episodes in the history of espionage. In The Spy and the Traitor Ben Macintyre reveals a tale of betrayal, duplicity and raw courage that changed the course of the Cold War forever.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "024118665X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780241186657"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 25,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VzWTswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VzWTswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=VzWTswEACAAJ&dq=isbn:9780241186657&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=VzWTswEACAAJ&dq=isbn:9780241186657&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Spy_and_the_Traitor.html?hl=&id=VzWTswEACAAJ"
     },
     {
-      "id": 23,
-      "title": "The Gene: An Intimate History",
-      "author": [
-        "Dr Siddhartha Mukherjee"
-      ],
-      "date_read": 2019,
-      "description": "The Gene is the story of one of the most powerful and dangerous ideas in our history from the author of The Emperor of All Maladies.\u003cbr /\u003e\u003cbr /\u003eThe story begins in an Augustinian abbey in 1856, and takes the reader from Darwin’s groundbreaking theory of evolution, to the horrors of Nazi eugenics, to present day and beyond - as we learn to “read” and “write” the human genome that unleashes the potential to change the fates and identities of our children.\u003cbr /\u003e\u003cbr /\u003eMajestic in its scope and ambition, The Gene provides us with a definitive account of the epic history of the quest to decipher the master-code that makes and defines humans – and paints a fascinating vision of both humanity’s past and future.",
-      "photo": "/books/images/theGeneAnIntimateHistory.jpg",
-      "isbn": "9783596032358",
-      "tags": [
-        "science"
-      ],
-      "rating": 4.35
+        "isbn": "9780566086656",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780566086656.jpg",
+        "title": "The Goal",
+        "subtitle": "A Process of Ongoing Improvement",
+        "authors": [
+            "Eliyahu M. Goldratt",
+            "Jeff Cox"
+        ],
+        "publisher": "Gardners Books",
+        "publishedDate": "2004",
+        "description": "Written in a fast-paced thriller style, 'The Goal' contains a serious message for all managers in industry and explains the ideas which underline the Theory of Constraints developed by the author.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0566086654"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780566086656"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yTdCPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yTdCPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=yTdCPgAACAAJ&dq=isbn:9780566086656&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=yTdCPgAACAAJ&dq=isbn:9780566086656&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Goal.html?hl=&id=yTdCPgAACAAJ"
     },
     {
-      "id": 24,
-      "title": "Tools and Weapons: The Promise and the Peril of the Digital Age",
-      "author": [
-        "Brad Smith \u0026 Carol Ann Browne"
-      ],
-      "date_read": 2020,
-      "description": "\u003cb\u003e\u003cb\u003eWith a foreword by Bill Gates\u003c/b\u003e \u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eFrom Microsoft's President and one of the tech industry's wisest thinkers, a frank and thoughtful reckoning with how to balance enormous promise and existential risk as the digitization of everything accelerates.\u003cbr /\u003e\u003cbr /\u003eMicrosoft President Brad Smith operates by a simple core belief: when your technology changes the world, you bear a responsibility to help address the world you have helped create. This might seem uncontroversial, but it flies in the face of a tech sector long obsessed with rapid growth and sometimes on disruption as an end in itself. Now, though, we have reached an inflection point: Silicon Valley has moved fast and it has broken things. A new understanding has emerged that companies that create technology must accept greater responsibility for the future. And governments will need to regulate technology by moving faster and catching up with the pace of innovation that is impacting our communities and changing the world.\u003cbr /\u003e\u003cbr /\u003eIn \u003ci\u003eTools and Weapons\u003c/i\u003e, Brad Smith takes us into the cockpit of one of the world's largest and most powerful tech companies as it finds itself in the middle of some of the thorniest emerging issues of our time. These are challenges that come with no preexisting playbook, including privacy, cybercrime and cyberwar, social media, the moral conundrums of AI, big tech's relationship to inequality and the challenges for democracy, far and near. While in no way a self-glorifying \"Microsoft memoir,\" the book opens up the curtain remarkably wide onto some of the company's most crucial recent decision points, as it strives to protect the hopes technology offers against the very real threats it also presents. Every tool can be a weapon in the wrong person's hands, and companies are being challenged in entirely new ways to embrace the totality of their responsibilities. We have moved from a world in which Silicon Valley could take no prisoners to one in which tech companies and governments must work together to address the challenges and adapt to the changes technology has unleashed. There are huge ramifications to be thought through, and Brad Smith provides a marvelous and urgently necessary contribution to that effort.",
-      "photo": "/books/images/toolsAndWeapons.jpg",
-      "isbn": " 9781984879226",
-      "tags": [
-        "technology"
-      ],
-      "rating": 3.93
+        "isbn": "9780340960196",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9780340960196.jpg",
+        "title": "Dune",
+        "authors": [
+            "Frank Herbert"
+        ],
+        "publisher": "Hodder Paperbacks",
+        "publishedDate": "2015-07",
+        "description": "Before The Matrix, before Star Wars, before Ender's Game and Neuromancer, there was Dune: winner of the prestigious Hugo and Nebula awards, and widely considered one of the greatest science fiction novels ever written. Melange, or 'spice', is the most valuable - and rarest - element in the universe; a drug that does everything from increasing a person's life-span to making intersteller travel possible. And it can only be found on a single planet: the inhospitable desert world Arrakis. Whoever controls Arrakis controls the spice. And whoever controls the spice controls the universe. When the Emperor transfers stewardship of Arrakis from the noble House Harkonnen to House Atreides, the Harkonnens fight back, murdering Duke Leto Atreides. Paul, his son, and Lady Jessica, his concubine, flee into the desert. On the point of death, they are rescued by a band for Fremen, the native people of Arrakis, who control Arrakis' second great resource: the giant worms that burrow beneath the burning desert sands. In order to avenge his father and retake Arrakis from the Harkonnens, Paul must earn the trust of the Fremen and lead a tiny army against the innumerable forces aligned against them. And his journey will change the universe.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0340960191"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780340960196"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 577,
+        "printType": "BOOK",
+        "categories": [
+            "Dune (Imaginary place)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3132,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=I12oPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=I12oPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=I12oPwAACAAJ&dq=isbn:9780340960196&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=I12oPwAACAAJ&dq=isbn:9780340960196&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dune.html?hl=&id=I12oPwAACAAJ"
     },
     {
-      "id": 25,
-      "title": "Zero to One: Notes on Startups, or How to Build the Future",
-      "author": [
-        "Blake Masters \u0026 Peter Thiel"
-      ],
-      "date_read": 2020,
-      "description": "If you want to build a better future, you must believe in secrets.\u003cbr /\u003e\u003cbr /\u003eThe great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. \u003cbr /\u003e\u003cbr /\u003eThiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.\u003cbr /\u003e\u003cbr /\u003eDoing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. \u003cbr /\u003e\u003cbr /\u003eZero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
-      "photo": "/books/images/zeroToOne.jpg",
-      "isbn": "9780804139298",
-      "tags": [
-        "technology"
-      ],
-      "rating": 4.17
+        "isbn": "9781432883614",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781432883614.jpg",
+        "title": "The Midnight Library",
+        "authors": [
+            "Matt Haig"
+        ],
+        "publisher": "Wheeler Publishing, Incorporated",
+        "publishedDate": "2021-01-27",
+        "description": "\"Good morning America book club\"--Jacket.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1432883615"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781432883614"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 126,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YekCzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YekCzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=YekCzgEACAAJ&dq=isbn:9781432883614&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=YekCzgEACAAJ&dq=isbn:9781432883614&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Midnight_Library.html?hl=&id=YekCzgEACAAJ"
     },
     {
-      "id": 26,
-      "title": "Reset: My Fight for Inclusion and Lasting Change",
-      "author": [
-        "Ellen Pao"
-      ],
-      "date_read": 2020,
-      "description": "The \"necessary and incisive\" (Roxane Gay) account of the discrimination case that \"has blown open a conversation about the status of women\" in the workplace (\u003ci\u003eThe New York Times\u003c/i\u003e)\u003cbr /\u003e\u003cbr /\u003eIn 2015, Ellen K. Pao sued a powerhouse Silicon Valley venture capital firm, calling out workplace discrimination and retaliation against women and other underrepresented groups. Her suit rocked the tech world--and exposed its toxic culture and its homogeneity. Her message overcame negative PR attacks that took aim at her professional conduct and her personal life, and she won widespread public support--Time hailed her as \"the face of change.\" Though Pao lost her suit, she revolutionized the conversation at tech offices, in the media, and around the world. In Reset, she tells her full story for the first time.\u003cbr /\u003e\u003cbr /\u003eThe daughter of immigrants, Pao was taught that through hard work she could achieve her dreams. She earned multiple Ivy League degrees, worked at top startups, and in 2005 was recruited by Kleiner Perkins, arguably the world's leading venture capital firm at the time. In many ways, she did everything right, and yet she and other women and people of color were excluded from success--cut out of decisive meetings and email discussions, uninvited to CEO dinners and lavish networking trips, and had their work undercut or appropriated by male executives. It was time for a system reset.\u003cbr /\u003e\u003cbr /\u003eAfter Kleiner, Pao became CEO of reddit, where she took forceful action to change the status quo for the company and its product. She banned revenge porn and unauthorized nude photos--an action other large media sites later followed--and shut down parts of reddit over online harassment. She and seven other women tech leaders formed Project Include, an award-winning nonprofit for accelerating diversity and inclusion in tech. In her book, Pao shines a light on troubling issues that plague today's workplace and lays out practical, inspiring, and achievable goals for a better future.\u003cbr /\u003e\u003cbr /\u003eEllen K. Pao's Reset is a rallying cry--the story of a whistleblower who aims to empower everyone struggling to be heard, in Silicon Valley and beyond. (less)",
-      "photo": "/books/images/reset_my_fight_for_inclusion_and_lasting_change.jpg",
-      "isbn": "9780399591013",
-      "tags": [
-        "technology",
-        "inclusion"
-      ],
-      "rating": 4.15
+        "isbn": "9781472223791",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781472223791.jpg",
+        "title": "Hamnet",
+        "authors": [
+            "Maggie O'Farrell"
+        ],
+        "publisher": "Tinder Press",
+        "publishedDate": "2020-03-31",
+        "description": "'Dazzling. Devastating' Kamila Shamsie 'Stunning... deserves to win prizes' Marian Keyes A stunning new departure for Maggie O'Farrell's fiction, HAMNET is the heart-stopping story behind Shakespeare's most famous play. On a summer's day in 1596, a young girl in Stratford-upon-Avon takes to her bed with a fever. Her twin brother, Hamnet, searches everywhere for help. Why is nobody at home? Their mother, Agnes, is over a mile away, in the garden where she grows medicinal herbs. Their father is working in London. Neither parent knows that one of the children will not survive the week. Hamnet is a novel inspired by the son of a famous playwright. It is a story of the bond between twins, and of a marriage pushed to the brink by grief. It is also the story of a kestrel and its mistress; flea that boards a ship in Alexandria; and a glovemaker's son who flouts convention in pursuit of the woman he loves. Above all, it is a tender and unforgettable reimagining of a boy whose life has been all but forgotten, but whose name was given to one of the most celebrated plays ever written.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1472223799"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781472223791"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 92,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YzGfxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YzGfxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=YzGfxgEACAAJ&dq=isbn:9781472223791&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=YzGfxgEACAAJ&dq=isbn:9781472223791&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hamnet.html?hl=&id=YzGfxgEACAAJ"
     },
     {
-      "id": 26,
-      "title": "Three Women",
-      "author": [
-        "Lisa Taddeo"
-      ],
-      "date_read": 2020,
-      "description": "\u003cb\u003eA riveting true story about the sex lives of three real American women, based on nearly a decade of reporting.\u003c/b\u003e\u003cbr /\u003e\u003cbr /\u003eHailed as “a dazzling achievement” (\u003ci\u003eLos Angeles Times\u003c/i\u003e) and “riveting page-turner that explores desire, heartbreak, and infatuation in all its messy, complicated nuance” (\u003ci\u003eThe Washington Post\u003c/i\u003e), Lisa Taddeo’s \u003ci\u003eThree Women\u003c/i\u003e has captivated readers, booksellers, and critics—and topped bestseller lists—worldwide.\u003cbr /\u003e\u003cbr /\u003eIn suburban Indiana we meet Lina, a homemaker and mother of two whose marriage, after a decade, has lost its passion. Starved for affection, Lina battles daily panic attacks and, after reconnecting with an old flame through social media, embarks on an affair that quickly becomes all-consuming. In North Dakota we meet Maggie, a seventeen-year-old high school student who allegedly has a clandestine physical relationship with her handsome, married English teacher; the ensuing criminal trial will turn their quiet community upside down. Finally, in an exclusive enclave of the Northeast, we meet Sloane—a gorgeous, successful, and refined restaurant owner—who is happily married to a man who likes to watch her have sex with other men and women.\u003cbr /\u003e\u003cbr /\u003eBased on years of immersive reporting and told with astonishing frankness and immediacy, \u003ci\u003eThree Women\u003c/i\u003e is both a feat of journalism and a triumph of storytelling, brimming with nuance and empathy. “A work of deep observation, long conversations, and a kind of journalistic alchemy” (Kate Tuttle, NPR), Three Women introduces us to three unforgettable women—and one remarkable writer—whose experiences remind us that we are not alone.",
-      "photo": "/books/images/threeWomen.jpg",
-      "isbn": "9781432871222",
-      "tags": [
-        "feminism"
-      ],
-      "rating": 3.69
-    },
-    {
-      "id": 26,
-      "title": "Chemical Warrior",
-      "author": [
-        "Hamish de Bretton-Gordon"
-      ],
-      "date_read": 2020,
-      "description": "",
-      "photo": "/books/images/chemicalWarrior.jpg",
-      "isbn": "9781472274540",
-      "tags": [
-        "technology",
-        "human rights"
-      ],
-      "rating": 3.5
-    },
-    {
-      "id": 26,
-      "title": "self-care for the real world",
-      "author": [
-        "Katia Narain Phillips and Nadia Narain"
-      ],
-      "date_read": 2020,
-      "description": "Wellness pioneers Nadia Narain and Katia Narain Phillips have spent years helping others to feel their best, but it took them a bit longer to understand how to look after themselves. Here they share the small achievable steps they have learned, and how you can apply them to your own life, wherever you are.\u003cbr /\u003e\u003ci\u003eSelf-Care for the Real World\u003c/i\u003e is a combination of friendly advice, personal stories, exercises, and recipes. The book is a practical guide to self-care for real people with busy lives. The authors are sharp and funny, and they acknowledge that there is no one way to practice self-care. They’re not here to give strict instructions or preach drastic life changes, but to offer small suggestions to help you toward becoming the best version of yourself.",
-      "photo": "/books/images/selfCareForTheRealWorld.jpg",
-      "isbn": "9781419736773",
-      "tags": [
-        "self-care"
-      ],
-      "rating": 3.73
-    },
-    {
-      "id": 27,
-      "title": "The Three-Body Problem",
-      "author": [
-        "Liu Cixin"
-      ],
-      "date_read": 2020,
-      "description": "The Three-Body Problem is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most beloved science fiction author, Liu Cixin.Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.",
-      "photo": "/books/images/three_body_problem.jpg",
-      "isbn": "0765377063",
-      "tags": [
-        "science-fiction"
-      ],
-      "rating": 4.05
-    },
-    {
-      "id": 28,
-      "title": "This is Going to Hurt: Secret Diaries of a Junior Doctor",
-      "author": null,
-      "date_read": 0,
-      "description": "Welcome to the life of a junior doctor: 97-hour weeks, life and death decisions, a constant tsunami of bodily fluids, and the hospital parking meter earns more than you. Scribbled in secret after endless days, sleepless nights and missed weekends, Adam Kay's This is Going to Hurt provides a no-holds-barred account of his time on the NHS front line. Hilarious, horrifying and heartbreaking, this diary is everything you wanted to know – and more than a few things you didn't – about life on and off the hospital ward.",
-      "photo": "/books/images/secret_diaries_junior_doctor.jpg",
-      "isbn": "1509858636",
-      "tags": [],
-      "rating": 4.41
-    },
-    {
-      "id": 29,
-      "title": "The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work",
-      "author": null,
-      "date_read": 0,
-      "description": "Conventional wisdom holds that if we work hard we will be more successful, and if we are more successful, then we’ll be happy. If we can just find that great job, win that next promotion, lose those five pounds, happiness will follow. But recent discoveries in the field of positive psychology have shown that this formula is actually backward: Happiness fuels success, not the other way around. When we are positive, our brains become more engaged, creative, motivated, energetic, resilient, and productive at work. This isn’t just an empty mantra. This discovery has been repeatedly borne out by rigorous research in psychology and neuroscience, management studies, and the bottom lines of organizations around the globe.In The Happiness Advantage, Shawn Achor, who spent over a decade living, researching, and lecturing at Harvard University, draws on his own research—including one of the largest studies of happiness and potential at Harvard and others at companies like UBS and KPMG—to fix this broken formula. Using stories and case studies from his work with thousands of Fortune 500 executives in 42 countries, Achor explains how we can reprogram our brains to become more positive in order to gain a competitive edge at work.",
-      "photo": "/books/images/happiness_advantage.jpg",
-      "isbn": "9780307591562",
-      "tags": [
-        "self-development"
-      ],
-      "rating": 4.18
+        "isbn": "9781472154668",
+        "dateRead": "2022-09-26",
+        "imageLink": "/books/images/9781472154668.jpg",
+        "title": "Where the Crawdads Sing",
+        "authors": [
+            "Delia Owens"
+        ],
+        "publisher": "Corsair",
+        "publishedDate": "2019-12",
+        "description": "*The multi-million copy bestseller* Soon to be a major film A Number One New York Times Bestseller 'Painfully beautiful' New York Times 'Unforgettable . . . as engrossing as it is moving' Daily Mail 'A rare achievement' The Times 'I can't even express how much I love this book!' Reese Witherspoon ------------------------------------------------- For years, rumors of the 'Marsh Girl' have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. But Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. Then the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life - until the unthinkable happens. ------------------------------------------------- '[It] will reach a huge audience though the writer's old-fashioned talents for compelling character, plotting and landscape description' The Guardian 'For sheer escapism pick up Where The Crawdads Sing . . . there is writing that takes your breath away' The Times 'All is not as it seems in this heartbreaking coming-of-age bestseller' The i newspaper",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1472154665"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781472154668"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 221,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=v3nZvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=v3nZvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=v3nZvQEACAAJ&dq=isbn:9781472154668&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=v3nZvQEACAAJ&dq=isbn:9781472154668&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_the_Crawdads_Sing.html?hl=&id=v3nZvQEACAAJ"
     }
-  ]
+]

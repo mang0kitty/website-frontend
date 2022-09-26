@@ -1,14 +1,26 @@
 import {defineStore} from "pinia"
 
+export interface Book {
+    isbn: string
+    dateRead: string
+    title: string
+    authors: string
+    description: string
+    averageRating: number
+    categories: string[]
+    imageLink: string
+}
+
 export const useBookStore = defineStore("books", {
     state: () => ({
-        books: <any>[]
+        books: <Book[]>[]
     }),
     getters: {
         bookshelf(state) {
-            const years: { [year: number]: any[] } = state.books.reduce((years: any, book: any) => {
-                years[book.date_read] = years[book.date_read] || [];
-                years[book.date_read].push(book);
+            const years: { [year: number]: Book[] } = state.books.reduce((years: any, book: Book) => {
+                const year = new Date(book.dateRead).getFullYear()
+                years[year] = years[year] || [];
+                years[year].push(book);
                 return years;
             }, <any>{});
 

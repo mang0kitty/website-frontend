@@ -11,10 +11,10 @@
     <template #default>
       <div id="bookContent">
         <p id="author">
-          by {{ (book.author || ' ')[0] }}
+          by {{ (book.authors || ' ')[0] }}
           <br />
           <el-rate
-            v-model="book.rating"
+            v-model="book.averageRating"
             disabled
             allow-half
             show-score
@@ -24,45 +24,41 @@
         </p>
         <p
           id="description"
-          v-if="
-            !showFullDescription &&
-              book.description.length >
-                preview.length
-          "
         >
-          <p v-html="preview"></p>
-          <el-link v-on:click="showFullDescription = true" type="danger">Read more</el-link>
+        {{book.description}}
         </p>
-        <p v-else v-html="book.description"></p>
       </div>
     </template>
       <template v-slot:reference>
-        <img :src="cdnEndpoint + book.photo" class="book" />
+        <img :src="cdnEndpoint + book.imageLink" class="book" />
       </template>
     </el-popover>
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import {ref, computed, toRefs} from "vue"
 import {GetPreview} from "../helpers/preview"
+import type {Book} from "../stores";
 
 export default {
   name: "Book",
   props: {
     book: Object,
   },
-  setup(props) {
+  setup(props: { book: Book }) {
     const { book } = toRefs(props)
     const cdnEndpoint = ref(localStorage.getItem("cdn:url") || "https://cdn.aideen.dev")
-    const showFullDescription = ref(false);
-    const preview = computed(() => GetPreview(props.book.description))
+    const showFullDescription = ref(false)
+    const preview = computed(() =>
+      GetPreview(book.value.description)
+    )
 
     return {
       cdnEndpoint,
-      book,
       showFullDescription,
       preview,
+      book,
     }
   },
 };
@@ -71,7 +67,7 @@ export default {
 <style scoped>
 img {
   float: left;
-  height: 210px;
+  aspect-ratio: 2/3;
   width: 150px;
   object-fit: cover;
   border-radius: 5px;

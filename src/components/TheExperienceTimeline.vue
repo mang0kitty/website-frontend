@@ -27,13 +27,6 @@ export default {
           date: "July 2020 - November 2021",
         },
         {
-          company: "Mossé Security",
-          role: " Remote Cyber Security Intern",
-          description:
-            "This remote internship programme requires me to perform network vulnerability scans, write YARA rules, defend web applications against common vulnerabilities and develop applications and scripts in Python, Golang and PowerShell. ",
-          date: "2020",
-        },
-        {
           company: "Amazon Web Services",
           role: "Software Engineer Intern",
           description:
